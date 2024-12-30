@@ -1,0 +1,233 @@
+{
+  "main": {
+    "id": "3d4956f3e54803f5",
+    "type": "split",
+    "children": [
+      {
+        "id": "c6389344f3857777",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "37e95b2d3cd1aca2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GIT备份文件.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "GIT备份文件"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8d3b37f06aac2e66",
+    "type": "split",
+    "children": [
+      {
+        "id": "65a2fd0590ed0d62",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4154bf84f513bba0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "d8e3d34eeacd5aca",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#2024年12月3日",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "6bf6eaa1172aca98",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          },
+          {
+            "id": "42e9397df969bdde",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {},
+              "icon": "layout-grid",
+              "title": "Spaces"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 304.5057830810547
+  },
+  "right": {
+    "id": "bc71fd661f11f13e",
+    "type": "split",
+    "children": [
+      {
+        "id": "dc6eed18034deb9c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "94ea79c4e5d8862f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "bilibili/血月狼人，上古卷轴5，心安的雨中森林.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "血月狼人，上古卷轴5，心安的雨中森林 的反向链接列表"
+            }
+          },
+          {
+            "id": "55aa2d98fffacb41",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "misc+/人们在此探讨了“昏迷后的连续幻想”.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "人们在此探讨了“昏迷后的连续幻想” 的出链列表"
+            }
+          },
+          {
+            "id": "0e531b2068924df1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "d08320a66c0e7e26",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "GIT备份文件.md"
+              },
+              "icon": "lucide-list",
+              "title": "GIT备份文件 的大纲"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "command-palette:打开命令面板": false,
+      "templates:插入模板": false,
+      "random-note:开始漫游笔记": false,
+      "audio-recorder:开始/结束录音": false,
+      "canvas:新建白板": false
+    }
+  },
+  "active": "37e95b2d3cd1aca2",
+  "lastOpenFiles": [
+    "使用Ries翻译器的问题.md",
+    "GIT备份文件.md",
+    "毕业设计/毕业设计选题.md",
+    "流体热实验/流体热实验.md",
+    "流体热实验/末期提交要求.md",
+    "毕业设计/任务书.md",
+    "大四下学期选课任务.md",
+    "我有哪些优点.md",
+    "现在有哪些事情.md",
+    "实习overall.md",
+    "毕业设计/毕业设计.md",
+    "plus/2024-12-30 11.02.10 webvpn.dlut.edu.cn cc599cd10d52.png",
+    "plus/关于2025届本科毕业论文（设计）工作安排的通知-大连理工大学教务处.pdf",
+    "毕业设计",
+    "Youtube/Youtube.md",
+    "留学/选校.canvas",
+    "留学/文书、推荐信.canvas",
+    "留学/待办：推荐人信息.md",
+    "留学/两位教授的推荐信要求.md",
+    "留学/12月26日 中介沟通.md",
+    "留学/2024年12月22日，论坛内容分析.md",
+    "留学/12月22日.md",
+    "留学/创建了临时的邮箱账户.md",
+    "留学/归档/待办 与中介交流.md",
+    "留学/文书信息.md",
+    "留学/准备内容的比重.md",
+    "留学/归档/归档.md",
+    "留学/学校账号管理.md",
+    "留学/发送什么来询问推荐信呢？.md",
+    "留学/归档/猜想：排名和申请难度不成线性.md",
+    "留学/归档/14所学校的对比.md",
+    "留学/归档",
+    "bilibili/plus/Pasted image 20241220025057.png",
+    "bilibili/plus/中国县级政区图第一版.png",
+    "bilibili/plus/Pasted image 20241225000607.png",
+    "bilibili/plus/背景无像素底图.png",
+    "bilibili/plus/Pasted image 20241130132143.png",
+    "流体热实验/plus/说错了人名.png",
+    "plus/Recording 20241225202154.m4a",
+    "留学/plus/Pasted image 20241220093319.png",
+    "留学/plus/Pasted image 20241222035455.png",
+    "留学/plus/12月15日成绩单.jpg",
+    "梦的补充/plus/Recording 20241223141014.m4a",
+    "梦的补充/plus/Recording 20241223140530.m4a",
+    "梦的补充/plus/Recording 20241223140453.m4a",
+    "梦的补充/plus/Recording 20241223140245.m4a",
+    "梦的补充/plus/Recording 20241223140156.m4a",
+    "梦的补充/plus/Recording 20241223140027.m4a",
+    "//Untitled 1.canvas",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "//Untitled.canvas",
+    "‘.canvas"
+  ]
+}
