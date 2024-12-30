@@ -7,3 +7,5 @@ emacs不适合中文，也并非现代GUI。
 
 [GUIs 列表](https://git-scm.com/downloads/guis)
 作为轻度用户，使用github desktop是合适的。
+publish repository > "Name" = github/liuhaolun/"Name"
+
