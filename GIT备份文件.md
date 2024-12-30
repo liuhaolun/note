@@ -9,7 +9,6 @@ emacs不适合中文，也并非现代GUI。
 作为轻度用户，使用github desktop是合适的。
 publish repository > "Name" = github/liuhaolun/"Name"
 add new repository > "Name":"." 可以在已有的文件夹建立
-
 ### 列表
 note::笔记
 peg-in-hole::课程&作业::毕业设计
