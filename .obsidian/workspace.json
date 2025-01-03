@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "37e95b2d3cd1aca2",
+            "id": "691f1cd5cab72d2f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GIT备份文件.md",
+                "file": "RUST/hecto simple-text-editor.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "GIT备份文件"
+              "title": "hecto simple-text-editor"
             }
           }
         ]
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#2024年12月3日",
+                "query": "tag:#可改善",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,7 @@
             }
           },
           {
-            "id": "6e67a1e7f1a6a4d4",
+            "id": "460b4fb74fbe1f00",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -150,10 +150,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GIT备份文件.md"
+                "file": "RUST/hecto simple-text-editor.md"
               },
               "icon": "lucide-list",
-              "title": "GIT备份文件 的大纲"
+              "title": "hecto simple-text-editor 的大纲"
             }
           }
         ],
@@ -174,56 +174,56 @@
       "canvas:新建白板": false
     }
   },
-  "active": "37e95b2d3cd1aca2",
+  "active": "691f1cd5cab72d2f",
   "lastOpenFiles": [
-    "misc+/想法/我意识到了要做游戏，不要为留学中介烦恼.md",
-    "GIT备份文件.md",
-    "使用Ries翻译器的问题.md",
-    "毕业设计/毕业设计选题.md",
-    "流体热实验/流体热实验.md",
+    "RUST/-归档/-归档.md",
+    "RUST/RUST.md",
+    "记忆和效率的拼凑.md",
+    "Reddit/plural/回复： I’m not sure if I’m plural anymore.md",
+    "Reddit/plural/plural.md",
+    "Reddit/plural",
+    "Reddit/Reddit.md",
+    "互联网的某处/互联网的某处.md",
     "流体热实验/末期提交要求.md",
-    "毕业设计/任务书.md",
-    "大四下学期选课任务.md",
-    "我有哪些优点.md",
-    "现在有哪些事情.md",
-    "实习overall.md",
-    "毕业设计/毕业设计.md",
-    "plus/2024-12-30 11.02.10 webvpn.dlut.edu.cn cc599cd10d52.png",
-    "plus/关于2025届本科毕业论文（设计）工作安排的通知-大连理工大学教务处.pdf",
-    "毕业设计",
-    "Youtube/Youtube.md",
-    "留学/选校.canvas",
-    "留学/文书、推荐信.canvas",
+    "流体热实验/流体热实验.md",
+    "梦的补充/2024年12月19日，跨过半天.md",
+    "梦的补充/plus/可作为技能的参考.gif",
+    "misc+/抛光.md",
+    "misc+/我喜欢的 和不喜欢的 食物.md",
+    "misc+/牛奶是否好喝.md",
+    "misc+/想法/AI并不可信 华为三折叠在婚姻中的寓意.md",
+    "misc+/想法/大量思考可以清理“碎片”的痕迹.md",
+    "misc+/想法/审美被周边人影响，想必思考一样.md",
     "留学/待办：推荐人信息.md",
-    "留学/两位教授的推荐信要求.md",
-    "留学/12月26日 中介沟通.md",
-    "留学/2024年12月22日，论坛内容分析.md",
-    "留学/12月22日.md",
-    "留学/创建了临时的邮箱账户.md",
-    "留学/归档/待办 与中介交流.md",
-    "留学/文书信息.md",
-    "留学/准备内容的比重.md",
-    "留学/归档/归档.md",
-    "留学/学校账号管理.md",
-    "留学/发送什么来询问推荐信呢？.md",
-    "留学/归档/猜想：排名和申请难度不成线性.md",
-    "留学/归档",
+    "留学/科研机构的推荐信.md",
+    "使用Ries翻译器的问题.md",
+    "misc+/新年该怎样在家庭群祝福.md",
+    "毕业设计/任务书.md",
+    "梦的补充/2025年1月1日 最深沉的不学无术.md",
+    "梦的补充/plus/Recording 20250101160747.m4a",
+    "梦的补充/plus/Recording 20250101160748.m4a",
+    "梦的补充/2024年11月28日 无力感的梦.md",
+    "梦的补充/2024年12月20日，通宵.md",
+    "梦的补充/2024年11月18日，辗转难寐、清晰的梦.md",
+    "梦的补充/2024年12月22日，通宵.md",
+    "梦的补充/plus/Recording 20241119061618.m4a",
+    "梦的补充/plus/Recording 20241119062727.m4a",
+    "bilibili/plus/2025-01-01 00.00.16 www.bilibili.com 3a75f1277c7b.png",
+    "留学/文书、推荐信.canvas",
+    "梦的补充/plus/Recording 20241231165113.m4a",
+    "梦的补充/plus/Recording 20241231164755.m4a",
+    "梦的补充/plus/Recording 20241231164524.m4a",
+    "梦的补充/plus/Recording 20241231164327.m4a",
+    "互联网的某处/plus/2024-12-30 18.12.16 tieba.baidu.com 46128d516a47.png",
+    "互联网的某处/plus",
+    "bilibili/plus/2024-12-30 18.08.36 www.bilibili.com cc9905640787.png",
+    "plus/2024-12-30 11.02.10 webvpn.dlut.edu.cn cc599cd10d52.png",
+    "留学/选校.canvas",
     "bilibili/plus/Pasted image 20241220025057.png",
     "bilibili/plus/中国县级政区图第一版.png",
     "bilibili/plus/Pasted image 20241225000607.png",
     "bilibili/plus/背景无像素底图.png",
     "bilibili/plus/Pasted image 20241130132143.png",
-    "流体热实验/plus/说错了人名.png",
-    "plus/Recording 20241225202154.m4a",
-    "留学/plus/Pasted image 20241220093319.png",
-    "留学/plus/Pasted image 20241222035455.png",
-    "留学/plus/12月15日成绩单.jpg",
-    "梦的补充/plus/Recording 20241223141014.m4a",
-    "梦的补充/plus/Recording 20241223140530.m4a",
-    "梦的补充/plus/Recording 20241223140453.m4a",
-    "梦的补充/plus/Recording 20241223140245.m4a",
-    "梦的补充/plus/Recording 20241223140156.m4a",
-    "梦的补充/plus/Recording 20241223140027.m4a",
     "//Untitled 1.canvas",
     "Untitled 1.canvas",
     "Untitled.canvas",
