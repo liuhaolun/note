@@ -9,3 +9,4 @@ Vivaldi和Obisidian的设计都很不明智：
 - Obsidian::笔记property，应当被放在右侧栏而非笔记中
 - Vivaldi::仪表盘，太稀疏不适合每日规划
 - Obsidian::右侧栏应该类同左侧栏为图标-功能区，关闭右侧栏后中间文字不应右移动
+- Obsidian::Make.md,使用户在胡乱操作下造成了破坏性，不应该

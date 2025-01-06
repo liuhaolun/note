@@ -11,15 +11,12 @@
             "id": "0b211660a3945499",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "mk-space",
               "state": {
-                "file": "misc+/更换了字体.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "path": "misc+/想法"
               },
               "icon": "lucide-file",
-              "title": "更换了字体"
+              "title": "想法"
             }
           }
         ]
@@ -88,6 +85,18 @@
         "type": "tabs",
         "children": [
           {
+            "id": "16a86dbf4e10a8a9",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "misc+/Make.md Obsidian插件.md"
+              },
+              "icon": "lucide-info",
+              "title": "Make.md Obsidian插件的笔记属性"
+            }
+          },
+          {
             "id": "cc461991d770b877",
             "type": "leaf",
             "state": {
@@ -102,22 +111,21 @@
             }
           },
           {
-            "id": "16a86dbf4e10a8a9",
+            "id": "ecc035c56c09d195",
             "type": "leaf",
             "state": {
-              "type": "file-properties",
-              "state": {
-                "file": "misc+/想法/minimal和clever的软件设计.md"
-              },
-              "icon": "lucide-info",
-              "title": "minimal和clever的软件设计的笔记属性"
+              "type": "make-context-view",
+              "state": {},
+              "icon": "component",
+              "title": "Explorer"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 221.5
+    "width": 254.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -130,34 +138,45 @@
       "canvas:新建白板": true
     }
   },
-  "active": "0b211660a3945499",
+  "active": "a288a5e33be1731b",
   "lastOpenFiles": [
+    "misc+/想法/问：人如何能不被欲望控制.md",
+    "misc+/想法/想法.md",
+    "misc+/模板/模板.md",
     "misc+/misc+.md",
-    "流体热实验/流体热实验.md",
-    "-归档/先进制造 final report/先进制造 final report.md",
-    "RUST/-归档/-归档.md",
-    "misc+/未命名.md",
-    "misc+/更换了字体.md",
-    "misc+/#^ 1.md",
-    "misc+/#^.md",
-    "misc+/长sſ被用于过去的英文.md",
-    "misc+/不看新闻 无知.md",
-    "互联网的某处/修正主义.md",
-    "misc+/直接做决定 间接决定.md",
-    "misc+/我对减肥的思考.md",
-    "misc+/我对色情的反思.md",
-    "misc+/女性衣服的搭配.md",
-    "misc+/选择大小—放大系数.md",
+    "语言语料库/语言语料库.md",
+    "-归档/怎样使用笔记/笔记的分配.md",
+    "-归档/怎样使用笔记/怎样使用笔记.md",
+    "以伴—怎样与人交流/以伴—怎样与人交流.md",
+    "GIT备份文件.md",
+    "梦的补充/梦的补充.md",
+    "每日的tryCatch（日程记）/2025年1月6日.md",
+    "每日的tryCatch（日程记）/每日的tryCatch（日程记）.md",
+    "Vault.md",
+    "misc+/Make.md Obsidian插件.md",
+    "我越发觉得软件的不完美.md",
+    "misc+/牛奶是否好喝.md",
+    "misc+/plus/Pasted image 20241117163145.png",
+    "misc+/数学证明过程 搜索.md",
+    "misc+/plus/Pasted image 20241028233418.png",
+    "misc+/plus/Recording 20241028191232.m4a",
     "misc+/防静电口袋.md",
     "misc+/软件ui设计.md",
+    "misc+/三门问题-我对概率的盲目误解.md",
+    "misc+/plus/plus.md",
     "misc+/药物.md",
-    "misc+/牛奶是否好喝.md",
-    "misc+/想法/问：人如何能不被欲望控制.md",
-    "misc+/想法/过多偏离的预测 和 未经思考的肯定.md",
-    "misc+/想法/我觉得，到了研究生阶段，内容不琐碎了，就会很适合我.md",
-    "梦的补充/2024年11月18日，辗转难寐、清晰的梦.md",
-    "流体热实验/半导体片-热端风扇.md",
-    "-归档/托福练习/口语t1/记录1.md",
+    "RUST/-归档/-归档.md",
+    "-归档/鲶鱼效应 无趣.md",
+    "-归档/微纳米加工小作文.md",
+    "-归档/先进制造 final report/先进制造 final report.md",
+    "Tags/#2025年01月",
+    "misc+/plus/Pasted image 20241128203639.png",
+    "misc+/想法/plus/Pasted image 20241125232109.jpg",
+    "misc+/plus/Pasted image 20241124164435.png",
+    "misc+/plus/P20241123-174337_小儿菜.jpg",
+    "-归档/托福练习/Recording 20241030120712.m4a",
+    "misc+/plus/Imagine Friend suicidebywords subreddit 1.pdf",
+    "-归档/托福练习/写作",
     "plus/Recording 20241225202154.m4a",
     "plus/关于2025届本科毕业论文（设计）工作安排的通知-大连理工大学教务处.pdf",
     "未命名 1.canvas",
@@ -170,18 +189,7 @@
     "梦的补充/plus/Recording 20250105051047.m4a",
     "梦的补充/plus/Recording 20250105050517.m4a",
     "留学/文书、推荐信.canvas",
-    "Reddit/plural",
-    "梦的补充/plus/可作为技能的参考.gif",
-    "梦的补充/plus/Recording 20250101160747.m4a",
-    "梦的补充/plus/Recording 20250101160748.m4a",
-    "梦的补充/plus/Recording 20241119061618.m4a",
-    "梦的补充/plus/Recording 20241119062727.m4a",
-    "bilibili/plus/2025-01-01 00.00.16 www.bilibili.com 3a75f1277c7b.png",
-    "互联网的某处/plus/2024-12-30 18.12.16 tieba.baidu.com 46128d516a47.png",
-    "bilibili/plus/2024-12-30 18.08.36 www.bilibili.com cc9905640787.png",
-    "plus/2024-12-30 11.02.10 webvpn.dlut.edu.cn cc599cd10d52.png",
     "留学/选校.canvas",
-    "bilibili/plus/Pasted image 20241220025057.png",
     "//Untitled 1.canvas",
     "Untitled 1.canvas",
     "Untitled.canvas",
