@@ -70,7 +70,7 @@ move：【周围所有】所有权传递给函数。
 
 ### Task 10 重做
 ###### 取消折行功能
-`View::render_line``pos_row`
+`View::render_line` `pos_row`
 - 取消`pos_row`传递，该函数不会渲染多行
 - 增加`x_offset`用于判断渲染内容。
 	我希望：虽然滚动到右边，仅长行会被折叠，短行不会
@@ -82,3 +82,15 @@ move：【周围所有】所有权传递给函数。
 `let _ = Terminal::clear_line();`被放在了`move_cursor`前面。
 
 结论：绝对不能删除。我将使用git
+
+一方面这些是复杂的，另一方面要乐观：复杂的东西都是简单的东西的集合，并且这种集合可以被人类的神经描述。神经远比这些都复杂。
+
+
+#2025年01月 #01月05日 #结论 照抄代码没有任何用处，我照着答案改，改不出自己的风格来，且使写代码变麻烦了。
+
+#### 记录改变
+- `Editor{view,position}->Editor{View{position}}`导致了`repl:move_cursor_to(p)`需要从`view`中获取：`self.view.get_position()`
+- 增加`repl:should_process, from match &event`
+- 增加`mod editor_command` `enum EditorCommand={Move(KeyCode) Resize(Size) Quit}`
+	- 实现`impl TryFrom<crossterm::event::Event> for EditorCommand`
+- `view`分离`mod location`

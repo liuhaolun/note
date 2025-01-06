@@ -4,21 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "c6389344f3857777",
+        "id": "cad3d66e09137e2b",
         "type": "tabs",
         "children": [
           {
-            "id": "691f1cd5cab72d2f",
+            "id": "0b211660a3945499",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RUST/hecto simple-text-editor.md",
+                "file": "misc+/更换了字体.md",
                 "mode": "source",
+                "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "hecto simple-text-editor"
+              "title": "更换了字体"
             }
           }
         ]
@@ -35,24 +36,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4154bf84f513bba0",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical"
-              },
-              "icon": "lucide-folder-closed",
-              "title": "文件列表"
-            }
-          },
-          {
             "id": "d8e3d34eeacd5aca",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#可改善",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +63,7 @@
             }
           },
           {
-            "id": "460b4fb74fbe1f00",
+            "id": "3fc6560ec2454a9d",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -84,7 +73,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -95,73 +84,40 @@
     "type": "split",
     "children": [
       {
-        "id": "dc6eed18034deb9c",
+        "id": "5b9036500f3bf7b1",
         "type": "tabs",
         "children": [
           {
-            "id": "94ea79c4e5d8862f",
+            "id": "cc461991d770b877",
             "type": "leaf",
             "state": {
-              "type": "backlink",
-              "state": {
-                "file": "bilibili/血月狼人，上古卷轴5，心安的雨中森林.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "血月狼人，上古卷轴5，心安的雨中森林 的反向链接列表"
-            }
-          },
-          {
-            "id": "55aa2d98fffacb41",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "misc+/人们在此探讨了“昏迷后的连续幻想”.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "人们在此探讨了“昏迷后的连续幻想” 的出链列表"
-            }
-          },
-          {
-            "id": "0e531b2068924df1",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
+              "type": "all-properties",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "showSearch": false,
+                "searchQuery": ""
               },
-              "icon": "lucide-tags",
-              "title": "标签"
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
             }
           },
           {
-            "id": "d08320a66c0e7e26",
+            "id": "16a86dbf4e10a8a9",
             "type": "leaf",
             "state": {
-              "type": "outline",
+              "type": "file-properties",
               "state": {
-                "file": "RUST/hecto simple-text-editor.md"
+                "file": "misc+/想法/minimal和clever的软件设计.md"
               },
-              "icon": "lucide-list",
-              "title": "hecto simple-text-editor 的大纲"
+              "icon": "lucide-info",
+              "title": "minimal和clever的软件设计的笔记属性"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 221.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -171,59 +127,61 @@
       "templates:插入模板": false,
       "random-note:开始漫游笔记": false,
       "audio-recorder:开始/结束录音": false,
-      "canvas:新建白板": false
+      "canvas:新建白板": true
     }
   },
-  "active": "691f1cd5cab72d2f",
+  "active": "0b211660a3945499",
   "lastOpenFiles": [
-    "RUST/-归档/-归档.md",
-    "RUST/RUST.md",
-    "记忆和效率的拼凑.md",
-    "Reddit/plural/回复： I’m not sure if I’m plural anymore.md",
-    "Reddit/plural/plural.md",
-    "Reddit/plural",
-    "Reddit/Reddit.md",
-    "互联网的某处/互联网的某处.md",
-    "流体热实验/末期提交要求.md",
+    "misc+/misc+.md",
     "流体热实验/流体热实验.md",
-    "梦的补充/2024年12月19日，跨过半天.md",
-    "梦的补充/plus/可作为技能的参考.gif",
-    "misc+/抛光.md",
-    "misc+/我喜欢的 和不喜欢的 食物.md",
+    "-归档/先进制造 final report/先进制造 final report.md",
+    "RUST/-归档/-归档.md",
+    "misc+/未命名.md",
+    "misc+/更换了字体.md",
+    "misc+/#^ 1.md",
+    "misc+/#^.md",
+    "misc+/长sſ被用于过去的英文.md",
+    "misc+/不看新闻 无知.md",
+    "互联网的某处/修正主义.md",
+    "misc+/直接做决定 间接决定.md",
+    "misc+/我对减肥的思考.md",
+    "misc+/我对色情的反思.md",
+    "misc+/女性衣服的搭配.md",
+    "misc+/选择大小—放大系数.md",
+    "misc+/防静电口袋.md",
+    "misc+/软件ui设计.md",
+    "misc+/药物.md",
     "misc+/牛奶是否好喝.md",
-    "misc+/想法/AI并不可信 华为三折叠在婚姻中的寓意.md",
-    "misc+/想法/大量思考可以清理“碎片”的痕迹.md",
-    "misc+/想法/审美被周边人影响，想必思考一样.md",
-    "留学/待办：推荐人信息.md",
-    "留学/科研机构的推荐信.md",
-    "使用Ries翻译器的问题.md",
-    "misc+/新年该怎样在家庭群祝福.md",
-    "毕业设计/任务书.md",
-    "梦的补充/2025年1月1日 最深沉的不学无术.md",
+    "misc+/想法/问：人如何能不被欲望控制.md",
+    "misc+/想法/过多偏离的预测 和 未经思考的肯定.md",
+    "misc+/想法/我觉得，到了研究生阶段，内容不琐碎了，就会很适合我.md",
+    "梦的补充/2024年11月18日，辗转难寐、清晰的梦.md",
+    "流体热实验/半导体片-热端风扇.md",
+    "-归档/托福练习/口语t1/记录1.md",
+    "plus/Recording 20241225202154.m4a",
+    "plus/关于2025届本科毕业论文（设计）工作安排的通知-大连理工大学教务处.pdf",
+    "未命名 1.canvas",
+    "未命名.canvas",
+    "Reddit/brandnewsentences/Pasted image 20241109042854.png",
+    "Reddit/me_irl/Pasted image 20241106140119.png",
+    "Reddit/clevercombacks/Pasted image 20241106152237.png",
+    "每日的tryCatch（日程记）",
+    "互联网的某处/plus/2025年1月1周 浏览记录.png",
+    "梦的补充/plus/Recording 20250105051047.m4a",
+    "梦的补充/plus/Recording 20250105050517.m4a",
+    "留学/文书、推荐信.canvas",
+    "Reddit/plural",
+    "梦的补充/plus/可作为技能的参考.gif",
     "梦的补充/plus/Recording 20250101160747.m4a",
     "梦的补充/plus/Recording 20250101160748.m4a",
-    "梦的补充/2024年11月28日 无力感的梦.md",
-    "梦的补充/2024年12月20日，通宵.md",
-    "梦的补充/2024年11月18日，辗转难寐、清晰的梦.md",
-    "梦的补充/2024年12月22日，通宵.md",
     "梦的补充/plus/Recording 20241119061618.m4a",
     "梦的补充/plus/Recording 20241119062727.m4a",
     "bilibili/plus/2025-01-01 00.00.16 www.bilibili.com 3a75f1277c7b.png",
-    "留学/文书、推荐信.canvas",
-    "梦的补充/plus/Recording 20241231165113.m4a",
-    "梦的补充/plus/Recording 20241231164755.m4a",
-    "梦的补充/plus/Recording 20241231164524.m4a",
-    "梦的补充/plus/Recording 20241231164327.m4a",
     "互联网的某处/plus/2024-12-30 18.12.16 tieba.baidu.com 46128d516a47.png",
-    "互联网的某处/plus",
     "bilibili/plus/2024-12-30 18.08.36 www.bilibili.com cc9905640787.png",
     "plus/2024-12-30 11.02.10 webvpn.dlut.edu.cn cc599cd10d52.png",
     "留学/选校.canvas",
     "bilibili/plus/Pasted image 20241220025057.png",
-    "bilibili/plus/中国县级政区图第一版.png",
-    "bilibili/plus/Pasted image 20241225000607.png",
-    "bilibili/plus/背景无像素底图.png",
-    "bilibili/plus/Pasted image 20241130132143.png",
     "//Untitled 1.canvas",
     "Untitled 1.canvas",
     "Untitled.canvas",

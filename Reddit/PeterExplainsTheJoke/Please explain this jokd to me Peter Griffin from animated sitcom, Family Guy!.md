@@ -1,5 +1,4 @@
 ---
-undefined: ""
 File: Reddit/PeterExplainsTheJoke/AlphaWolfFlawed.md
 aliases:
   - Please explain this jokd to me Peter Griffin from animated sitcom

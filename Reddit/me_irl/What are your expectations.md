@@ -1,5 +1,4 @@
 ---
-undefined: ""
 File: Reddit/whw.md
 aliases:
   - What are your expectations?

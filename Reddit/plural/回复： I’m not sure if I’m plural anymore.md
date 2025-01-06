@@ -62,3 +62,9 @@ I can relate to your situation, as I'm also experiencing pressure and have tempo
 
 I hope these thoughts are helpful, as I believe any supportive response is better than no response at all.
 
+### Re:
+Perhaps it was a good lifestyle change. I am trying to be less stressed. I am trying to be less self critical. I think maybe they dissolved into more like Parts instead of facets or alters. I think it helps I’ve been trying to read an IFS book. I can still identify their names and everything but yeah like I said they went further in the background. I don’t become them necessarily but they still effect things. Like you said maybe they went deeper.
+
+Also I am unable to afford a diagnosis but it has helped me to identify that I am autistic and it has helped to unmask.
+
+怎么了？现在我认为我的交流失败了？没能帮到对方，没能收到长回复？

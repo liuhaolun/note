@@ -1,5 +1,5 @@
 {
-  "spellcheck": false,
+  "spellcheck": true,
   "showIndentGuide": true,
   "attachmentFolderPath": "./plus",
   "alwaysUpdateLinks": true,
@@ -10,5 +10,6 @@
     "landscape": false,
     "margin": "0",
     "downscalePercent": 100
-  }
+  },
+  "showInlineTitle": true
 }

@@ -1,5 +1,4 @@
 ---
-undefined: " "
 File: Reddit/brandnewsentences/未命名.md
 aliases:
   - Is this post a spam to sell more purple dildos?
