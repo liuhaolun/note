@@ -4,19 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "cad3d66e09137e2b",
+        "id": "80b33050f4204e64",
         "type": "tabs",
         "children": [
           {
-            "id": "0b211660a3945499",
+            "id": "a5a979bae19fa05e",
             "type": "leaf",
             "state": {
-              "type": "mk-space",
+              "type": "markdown",
               "state": {
-                "path": "misc+/想法"
+                "file": "绘画/鸟 眼.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "想法"
+              "title": "鸟 眼"
             }
           }
         ]
@@ -60,13 +63,13 @@
             }
           },
           {
-            "id": "3fc6560ec2454a9d",
+            "id": "d952b11f4b3722d6",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
               "state": {},
               "icon": "layout-grid",
-              "title": "Spaces"
+              "title": "Navigator"
             }
           }
         ],
@@ -89,11 +92,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "misc+/Make.md Obsidian插件.md"
-              },
+              "state": {},
               "icon": "lucide-info",
-              "title": "Make.md Obsidian插件的笔记属性"
+              "title": "笔记属性"
             }
           },
           {
@@ -111,7 +112,7 @@
             }
           },
           {
-            "id": "ecc035c56c09d195",
+            "id": "9fdd2b25e81e9309",
             "type": "leaf",
             "state": {
               "type": "make-context-view",
@@ -125,71 +126,69 @@
       }
     ],
     "direction": "horizontal",
-    "width": 254.5
+    "width": 293.5
   },
   "left-ribbon": {
     "hiddenItems": {
       "switcher:打开快速切换": false,
-      "graph:查看关系图谱": false,
       "command-palette:打开命令面板": false,
       "templates:插入模板": false,
-      "random-note:开始漫游笔记": false,
       "audio-recorder:开始/结束录音": false,
       "canvas:新建白板": true
     }
   },
-  "active": "a288a5e33be1731b",
+  "active": "a5a979bae19fa05e",
   "lastOpenFiles": [
-    "misc+/想法/问：人如何能不被欲望控制.md",
-    "misc+/想法/想法.md",
-    "misc+/模板/模板.md",
-    "misc+/misc+.md",
-    "语言语料库/语言语料库.md",
-    "-归档/怎样使用笔记/笔记的分配.md",
-    "-归档/怎样使用笔记/怎样使用笔记.md",
-    "以伴—怎样与人交流/以伴—怎样与人交流.md",
-    "GIT备份文件.md",
-    "梦的补充/梦的补充.md",
-    "每日的tryCatch（日程记）/2025年1月6日.md",
-    "每日的tryCatch（日程记）/每日的tryCatch（日程记）.md",
-    "Vault.md",
-    "misc+/Make.md Obsidian插件.md",
-    "我越发觉得软件的不完美.md",
-    "misc+/牛奶是否好喝.md",
-    "misc+/plus/Pasted image 20241117163145.png",
-    "misc+/数学证明过程 搜索.md",
-    "misc+/plus/Pasted image 20241028233418.png",
-    "misc+/plus/Recording 20241028191232.m4a",
-    "misc+/防静电口袋.md",
-    "misc+/软件ui设计.md",
-    "misc+/三门问题-我对概率的盲目误解.md",
-    "misc+/plus/plus.md",
-    "misc+/药物.md",
-    "RUST/-归档/-归档.md",
-    "-归档/鲶鱼效应 无趣.md",
-    "-归档/微纳米加工小作文.md",
-    "-归档/先进制造 final report/先进制造 final report.md",
-    "Tags/#2025年01月",
-    "misc+/plus/Pasted image 20241128203639.png",
-    "misc+/想法/plus/Pasted image 20241125232109.jpg",
-    "misc+/plus/Pasted image 20241124164435.png",
-    "misc+/plus/P20241123-174337_小儿菜.jpg",
-    "-归档/托福练习/Recording 20241030120712.m4a",
-    "misc+/plus/Imagine Friend suicidebywords subreddit 1.pdf",
-    "-归档/托福练习/写作",
-    "plus/Recording 20241225202154.m4a",
-    "plus/关于2025届本科毕业论文（设计）工作安排的通知-大连理工大学教务处.pdf",
+    "绘画/宇宙飞船.md",
+    "绘画/单点透视.md",
+    "绘画/绘画.md",
+    "matlab/matlab.md",
+    "流体热实验.md",
+    "流体热实验/流体热实验.md",
+    "-归档/流体热实验/plus/说错了人名.png",
+    "-归档/流体热实验/plus/plus.md",
+    "-归档/流体热实验/plus/Pasted image 20241128132758.png",
+    "-归档/流体热实验/plus/Pasted image 20241128132614.png",
+    "-归档/流体热实验/plus/Pasted image 20241119151902.png",
+    "-归档/流体热实验/plus/Pasted image 20241119151237.png",
+    "-归档/流体热实验/plus/CH341SER.exe",
+    "-归档/流体热实验/聚酰亚胺加热膜.md",
+    "-归档/流体热实验/简易BOM.md",
+    "-归档/流体热实验/电源.md",
+    "-归档/流体热实验/流体热实验.md",
+    "-归档/流体热实验/末期提交要求.md",
+    "-归档/流体热实验/时效规划.md",
+    "-归档/流体热实验/我的演讲部分.md",
+    "-归档/流体热实验/可用图片.md",
+    "-归档/流体热实验/半导体片-热端风扇.md",
+    "-归档/流体热实验/半导体制冷片.md",
+    "-归档/流体热实验/VFD显示器.md",
+    "-归档/流体热实验/plus",
+    "-归档/流体热实验/mentor meet 要求.md",
+    "-归档/流体热实验/K型热电偶+Max31850模块.md",
+    "-归档/流体热实验/Final Report.md",
+    "-归档/流体热实验/Arduino.md",
+    "-归档/流体热实验/5位按钮.md",
+    "-归档/流体热实验/2024年12月2日 结果.md",
+    "-归档/流体热实验/1月5日 沟通.md",
+    "-归档/流体热实验/12月4日 临时会议 19日报告与否？.md",
+    "-归档/流体热实验",
+    "misc+/plus/Pasted image 20250108140201.png",
+    "梦的补充/plus/Recording 20250108084920.m4a",
+    "梦的补充/plus/Recording 20250108084704.m4a",
+    "留学/文书、推荐信.canvas",
+    "留学/plus/Pasted image 20250107144909.png",
+    "留学/选校.canvas",
+    "-归档/bio-inspired robotics/H2020_Robotics_Multi-Annual_Roadmap_ICT-2017B.pdf",
+    "Reddit/不看 upliftingnews/a-cubic-millimeter-of-a-human-brain-has-been-mapped-in-v0-IVpK_F8qOLxDlrQsLOaeWA_P92LYShiXuHp7LmstrfA.webp",
+    "Reddit/plus/Pasted image 20241220092649.png",
+    "Reddit/plus/Pasted image 20241107000555.png",
+    "Reddit/不看 upliftingnews",
+    "Reddit/plus",
+    "Reddit/plural",
+    "Reddit/PeterExplainsTheJoke",
     "未命名 1.canvas",
     "未命名.canvas",
-    "Reddit/brandnewsentences/Pasted image 20241109042854.png",
-    "Reddit/me_irl/Pasted image 20241106140119.png",
-    "Reddit/clevercombacks/Pasted image 20241106152237.png",
-    "每日的tryCatch（日程记）",
-    "互联网的某处/plus/2025年1月1周 浏览记录.png",
-    "梦的补充/plus/Recording 20250105051047.m4a",
-    "梦的补充/plus/Recording 20250105050517.m4a",
-    "留学/文书、推荐信.canvas",
-    "留学/选校.canvas",
     "//Untitled 1.canvas",
     "Untitled 1.canvas",
     "Untitled.canvas",

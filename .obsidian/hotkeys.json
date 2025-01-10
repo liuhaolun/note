@@ -1,5 +1,4 @@
 {
-  "switcher:open": [],
   "command-palette:open": [
     {
       "modifiers": [],
@@ -14,5 +13,14 @@
       ],
       "key": "P"
     }
-  ]
+  ],
+  "make-md:mk-reveal-file": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "F"
+    }
+  ],
+  "make-md:mk-blink": []
 }
