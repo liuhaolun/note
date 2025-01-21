@@ -6,11 +6,11 @@
 		{"id":"9ef88e0ebafc9f8f","type":"text","text":"# 详情参考文书信息表","x":740,"y":-33,"width":365,"height":113},
 		{"id":"a7c867e20d499a35","type":"file","file":"留学/两位教授的推荐信要求.md","x":260,"y":320,"width":400,"height":400},
 		{"id":"10aefb82621e5b97","type":"file","file":"留学/发送什么来询问推荐信呢？.md","x":-192,"y":609,"width":400,"height":400},
-		{"id":"d690ec3ec3f31fed","type":"text","text":"","x":497,"y":1037,"width":250,"height":60},
 		{"id":"10ea6d914a89bf16","type":"file","file":"留学/推荐信：实习方面.md","x":1420,"y":480,"width":400,"height":400},
 		{"id":"bb5c4ed123d28a73","type":"file","file":"留学/1月3日 还有未开始的沟通.md","x":1420,"y":-3,"width":400,"height":400},
 		{"id":"a1a6c12ec4a061eb","type":"file","file":"留学/推荐信：教授.md","x":2066,"y":53,"width":400,"height":400},
-		{"id":"19d36567c4510305","x":1420,"y":-603,"width":400,"height":400,"type":"file","file":"留学/1月7日，我还可改善点.md"}
+		{"id":"19d36567c4510305","type":"file","file":"留学/1月7日，我还可改善点.md","x":1420,"y":-603,"width":400,"height":400},
+		{"id":"f6111d8b3ecb8373","type":"file","file":"留学/1月15日 文书“native化”.md","x":2840,"y":-603,"width":400,"height":400}
 	],
 	"edges":[
 		{"id":"bc194cde16483d0e","fromNode":"4177e233185688f3","fromSide":"right","toNode":"62ababa7dfc65509","toSide":"left"},

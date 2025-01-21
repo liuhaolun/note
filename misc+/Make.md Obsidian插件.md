@@ -20,7 +20,7 @@ File:
 * ##### explorer
 显示在右侧栏，本文件有哪些property(context)
 
-=>[[我越发觉得软件的不完美]]
+=>[[../Geometry&GUI 设计/我越发觉得软件的不完美]]
 
 #### space view
 点击文件夹，在中间显示可以插入专属文件夹内容的。
