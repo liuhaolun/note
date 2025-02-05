@@ -35,8 +35,6 @@
   "showRibbon": true,
   "deleteFileOption": "trash",
   "expandedSpaces": [
-    "每日的tryCatch（日程记）",
-    "梦的补充",
     "以伴—怎样与人交流",
     "//misc+/misc+/想法",
     "//bio-inspired robotics",
@@ -65,7 +63,16 @@
     "Geometry&GUI 设计",
     "毕业设计",
     "毕业设计/毕业设计/论文阅读",
-    "互联网的某处/互联网的某处/文化大革命梳理"
+    "bilibili/bilibili/现在时刻yugp 在贴吧画了15年素描",
+    "互联网的某处/互联网的某处/现在时刻yugp 在贴吧画了15年素描",
+    "//语言语料库",
+    "//语言语料库/语言语料库/交流的效果",
+    "//语言、语料、语术/语言、语料、语术/交流的效果",
+    "//语言、语料、语术/语言、语料、语术/语言的客观规律",
+    "每日的tryCatch（日程记）",
+    "每日的tryCatch（日程记）/每日的tryCatch（日程记）/plus",
+    "梦的补充",
+    "Jupyter笔记本"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",
