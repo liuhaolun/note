@@ -43,7 +43,6 @@
     "//-归档/-归档/托福练习",
     "互联网的某处",
     "互联网的某处/互联网的某处/plus",
-    "bilibili/bilibili/plus",
     "bilibili",
     "/",
     "//-归档/-归档/bio-inspired robotics/-归档/bio-inspired robotics/plus",
@@ -69,10 +68,11 @@
     "//语言语料库/语言语料库/交流的效果",
     "//语言、语料、语术/语言、语料、语术/交流的效果",
     "//语言、语料、语术/语言、语料、语术/语言的客观规律",
-    "每日的tryCatch（日程记）",
     "每日的tryCatch（日程记）/每日的tryCatch（日程记）/plus",
     "梦的补充",
-    "Jupyter笔记本"
+    "Jupyter笔记本",
+    "每日的tryCatch（日程记）",
+    "bilibili/bilibili/plus"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",
