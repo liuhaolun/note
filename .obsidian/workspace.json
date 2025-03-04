@@ -4,25 +4,41 @@
     "type": "split",
     "children": [
       {
-        "id": "5e999fb31ea05826",
+        "id": "dcd50d6b1e0b8d26",
         "type": "tabs",
         "children": [
           {
-            "id": "dbf3c72179034854",
+            "id": "fec80241f0930a96",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "梦的补充/2025年2月15日 恐怖和游戏.md",
+                "file": "MAE151 机械设计/第二周待办.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025年2月15日 恐怖和游戏"
+              "title": "第二周待办"
+            }
+          },
+          {
+            "id": "1c6ac48958db3bae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "每日的tryCatch（日程记）/2025年3月5日.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025年3月5日"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -63,7 +79,7 @@
             }
           },
           {
-            "id": "ef23a68ed3aaec6d",
+            "id": "4c25978aa1b21cb9",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -77,7 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 329.5057830810547
+    "width": 291.5057830810547
   },
   "right": {
     "id": "bc71fd661f11f13e",
@@ -93,10 +109,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "梦的补充/2025年1月19日 遨游 奇幻.md"
+                "file": "每日的tryCatch（日程记）/2025年2月21日.md"
               },
               "icon": "lucide-info",
-              "title": "2025年1月19日 遨游 奇幻的笔记属性"
+              "title": "2025年2月21日的笔记属性"
             }
           },
           {
@@ -128,7 +144,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 293.5
+    "width": 294.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -139,56 +155,57 @@
       "canvas:新建白板": true
     }
   },
-  "active": "dbf3c72179034854",
+  "active": "1c6ac48958db3bae",
   "lastOpenFiles": [
-    "梦的补充/2025年1月4日 白天的9小时.md",
-    "梦的补充/2025年2月15日 恐怖和游戏.md",
-    "每日的tryCatch（日程记）/2025年2月14日.md",
-    "梦的补充/plus/未命名.md",
-    "misc+/希腊酸奶 混合物.md",
-    "每日的tryCatch（日程记）/2025年2月13日.md",
-    "每日的tryCatch（日程记）/2025年2月12日.md",
-    "每日的tryCatch（日程记）/2025年2月10日.md",
-    "每日的tryCatch（日程记）/2025年2月9日.md",
-    "bilibili/没有什么指出问题，只有方向不同.md",
-    "bilibili/plus/Pasted image 20250209135118.png",
-    "每日的tryCatch（日程记）/2025年2月7日.md",
-    "bilibili/快来个翻译一下它说的啥？ - 猫的棘背龙形态.md",
-    "bilibili/plus/Pasted image 20250208150155.png",
-    "笑哭.md",
-    "每日的tryCatch（日程记）/2025年1月29日.md",
-    "misc+/适龄“高质量男性”测算.md",
-    "每日的tryCatch（日程记）/2025年2月6日.md",
-    "梦的补充/2025年2月6日 找上门来 半醒.md",
-    "每日的tryCatch（日程记）/2025年2月5日.md",
-    "每日的tryCatch（日程记）/每日的tryCatch（日程记）.md",
-    "misc+/牛奶是否好喝.md",
-    "bilibili/19、20年时期，在b站的经常发言.md",
-    "bilibili/plus/2024-12-30 18.08.36 www.bilibili.com cc9905640787.png",
-    "bilibili/plus/2025-01-01 00.00.16 www.bilibili.com 3a75f1277c7b.png",
-    "bilibili/plus/Pasted image 20241204044741.png",
-    "bilibili/plus/Pasted image 20250202221045.png",
-    "bilibili/plus/Pasted image 20241220025057.png",
-    "bilibili/plus/Pasted image 20250202220808.png",
-    "bilibili/plus/Pasted image 20241225000607.png",
-    "bilibili/plus/Pasted image 20241129230237.png",
-    "misc+/烤大虾.md",
-    "misc+/不用姜饼屋的价格买到了快乐，时间投入产生.md",
-    "misc+/SQLite.md",
-    "每日的tryCatch（日程记）/2025年1月5日 开始日程tryCatch.md",
-    "misc+/一次尝试：获得手机号码对应的本人.md",
-    "Jupyter笔记本",
-    "留学/文书、推荐信.canvas",
-    "每日的tryCatch（日程记）/plus/追忆似水年华.mobi",
+    "每日的tryCatch（日程记）/2025年3月4日.md",
+    "每日的tryCatch（日程记）/2025年3月5日.md",
+    "misc+/2025年2月23日到2025年6月份，我的饮食.md",
+    "project_打字机/材料：镍钛丝、白铜丝.md",
+    "project_打字机/project_打字机.md",
+    "每日的tryCatch（日程记）/2025年2月2日.md",
+    "每日的tryCatch（日程记）/2025年3月3日.md",
+    "bilibili/超级大羊肉串.md",
+    "bilibili/plus/Pasted image 20250303215718.png",
+    "bilibili/plus/Pasted image 20250303215653.png",
+    "MAE151 机械设计/W2D1.md",
+    "MAE151 机械设计/W1D3.md",
+    "MAE151 机械设计/第二周待办.md",
+    "每日的tryCatch（日程记）/2025年3月2日.md",
+    "留学/1月27日 推进“王铁胜”在ROC UCM.md",
+    "留学/1月27日 UCL.md",
+    "留学/推荐信：教授.md",
+    "留学/留学.md",
+    "MAE151 机械设计/组员的投入统计.md",
+    "MAE151 机械设计/第一周待办.md",
+    "毕业设计/毕业.md",
+    "毕业设计/毕业设计选题.md",
+    "毕业设计/阅读和笔记.md",
+    "毕业设计/任务书.md",
+    "毕业设计/寒假期间阅读文献，翻译其中一篇.md",
+    "毕业设计/毕业设计.md",
+    "misc+/实习overall.md",
+    "misc+/我有哪些优点.md",
+    "每日的tryCatch（日程记）/plus/P20250301-234240.jpg",
+    "每日的tryCatch（日程记）/plus/P20250227-141131.jpg",
+    "每日的tryCatch（日程记）/plus/P50215-144313.jpg",
+    "bilibili/plus/Pasted image 20250301191735.png",
+    "project_打字机/plus/Pasted image 20250301161832.png",
+    "互联网的某处/plus/Pasted image 20250220002724.png",
+    "互联网的某处/plus/v2-b9ca00c8974bc5a0ae4aad094d45a9b7_1440w.webp",
+    "互联网的某处/plus/Pasted image 20250301001503.png",
+    "留学/归档/文书、推荐信.canvas",
+    "留学/归档/选校.canvas",
+    "MAE151 机械设计/Untitled.canvas",
+    "MAE151 机械设计",
+    "梦的补充/plus/Recording 20250224150131.m4a",
+    "梦的补充/plus/Recording 20250224151016.m4a",
+    "梦的补充/plus/Recording 20250224150537.m4a",
+    "梦的补充/plus/Recording 20250224150037.m4a",
+    "梦的补充/plus/plus",
+    "project_打字机/plus/国家通用盲文方案.pdf",
+    "project_打字机/plus",
+    "每日的tryCatch（日程记）/互联网的某处",
     "每日的tryCatch（日程记）/plus",
-    "语言、语料、语术/交流的效果",
-    "语言、语料、语术/语言的客观规律",
-    "互联网的某处/现在时刻yugp 在贴吧画了15年素描",
-    "梦的补充/plus/Recording 20250123155325.m4a",
-    "毕业设计/论文阅读",
-    "梦的补充/plus/Recording 20250116194438.m4a",
-    "misc+/plus/Recording 20250116183258.m4a",
-    "留学/选校.canvas",
     "未命名 1.canvas",
     "未命名.canvas",
     "//Untitled 1.canvas",
