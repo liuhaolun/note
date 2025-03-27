@@ -1,0 +1,9 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "存在待办": "checkbox",
+    "日结工时费": "multitext"
+  }
+}
