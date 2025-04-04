@@ -4,22 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "1ab839f8dc810490",
+        "id": "d48f8a019a903b18",
         "type": "tabs",
         "children": [
           {
-            "id": "6076ddbbe8d1650d",
+            "id": "4ee6e95f87813770",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "每日的tryCatch（日程记）/2025年3月28日 周五 深夜.md",
+                "file": "每日的tryCatch（日程记）/2025年4月5日 周六 夜中.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025年3月28日 周五 深夜"
+              "title": "2025年4月5日 周六 夜中"
             }
           }
         ]
@@ -41,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#灵感",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -63,7 +63,7 @@
             }
           },
           {
-            "id": "d43adfe51dce4dab",
+            "id": "726237059632a1e4",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -72,11 +72,12 @@
               "title": "Navigator"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 373.5049018859863
+    "width": 336.5049018859863
   },
   "right": {
     "id": "bc71fd661f11f13e",
@@ -138,54 +139,54 @@
       "canvas:新建白板": true
     }
   },
-  "active": "d8e3d34eeacd5aca",
+  "active": "4ee6e95f87813770",
   "lastOpenFiles": [
-    "每日的tryCatch（日程记）/2025年3月27日 周四 深夜.md",
-    "梦的补充/2025年3月27日 乘飞机.md",
-    "每日的tryCatch（日程记）/2025年3月28日 周五 深夜.md",
-    "project_打字机/6dots模块研究/3月27日 装配的发现.md",
-    "每日的tryCatch（日程记）/梦的补充",
-    "梦的补充/2024年12月11日.md",
-    "每日的tryCatch（日程记）/2025年3月16日 周日 夜中.md",
-    "梦的补充/2025年3月18日 签字笔 手机.md",
-    "project_打字机/6dots模块研究/凹凸片如何驱动起落.md",
-    "每日的tryCatch（日程记）/2025年3月26日 周三 晨.md",
-    "MAE151 机械设计/W5D3 Design Review 报告.md",
-    "MAE151 机械设计/W4D1.md",
-    "project_打字机/6dots模块研究/精度排列和设计限制.md",
-    "每日的tryCatch（日程记）/2025年3月25日 周二 午.md",
-    "misc+/我喜欢的 和不喜欢的 食物.md",
-    "互联网的某处/Fantech手机 im-100s.md",
-    "互联网的某处/plus/Pasted image 20250325191820.png",
-    "留学/2月28日 进度.md",
-    "MAE151 机械设计/W2D3 听取各组BP报告.md",
-    "Reinforcement Learning/Grokking Deep Reinforcement Learning/C1 Introduction.md",
-    "每日的tryCatch（日程记）/2025年3月23日 周日 前夜.md",
-    "毕业设计/AI决策设计.md",
-    "毕业设计/教程：AI算法.md",
-    "每日的tryCatch（日程记）/2025年3月21日.md",
-    "每日的tryCatch（日程记）/2025年3月18日 周二.md",
-    "project_打字机/6dots模块研究/PWM驱动特性.md",
-    "每日的tryCatch（日程记）/2025年3月24日 周一 深夜.md",
+    "深度学习练习/MNIST手写数字识别 CNN卷积.md",
+    "每日的tryCatch（日程记）/2025年4月5日 周六 夜中.md",
+    "每日的tryCatch（日程记）/2025年3月29日 周六 深夜.md",
+    "每日的tryCatch（日程记）/2025年3月30日 下午.md",
+    "每日的tryCatch（日程记）/2025年3月31日 周一 凌晨.md",
+    "每日的tryCatch（日程记）/2025年4月1日 周二 午后.md",
+    "每日的tryCatch（日程记）/2025年4月2日 周三 夜中.md",
+    "每日的tryCatch（日程记）/2025年4月4日 周五 清明节 2点.md",
+    "每日的tryCatch（日程记）/2025年4月3日 周四 夜中.md",
+    "毕业设计/控制程序/Manual栏 控制策略.md",
+    "毕业设计/人工智能/双模型架构 允许2%误差.md",
+    "毕业设计/人工智能/plus/~20250403-113033.tmp",
+    "毕业设计/人工智能/plus/P20250403-113033.jpg",
+    "毕业设计/人工智能/plus",
+    "毕业设计/控制程序/示例DS102驱动程序.md",
     "毕业设计/控制程序/制作UI框架.md",
-    "Reinforcement Learning/Grokking Deep Reinforcement Learning",
-    "Reinforcement Learning",
-    "毕业设计/人工智能",
+    "毕业设计/控制程序/通信程序：只负责通信，不解算.md",
+    "深度学习练习/部署mini-r1.md",
+    "Reddit/LocalLLaMA/25年4月1周 随便看看 发现openDeepSearch.md",
+    "每日的tryCatch（日程记）/2025年3月13日.md",
+    "梦的补充/2025年3月13日 真切在家.md",
+    "Reddit/CATIA 和 Solidworks.md",
+    "Reddit/LocalLLaMA/LocalLLaMA.md",
+    "Reddit/LocalLLaMA",
+    "project_打字机/6dots模块研究/4月1日 补全金属片.md",
+    "project_打字机/6dots模块研究/plus/P20250401-193006.jpg",
+    "project_打字机/plus/Pasted image 20250301161832.png",
+    "project_打字机/plus/Pasted image 20250309163625.png",
+    "project_打字机/6dots模块研究/6dots模块研究.md",
+    "project_打字机/project_打字机.md",
+    "project_打字机/6dots模块研究/plus",
+    "MAE151 机械设计/未命名.md",
+    "bilibili/近大远小的夜鹭错觉.md",
+    "bilibili/超级大羊肉串.md",
+    "bilibili/plus/Pasted image 20250401135653.png",
+    "深度学习练习",
+    "梦的补充/plus/Recording 20250329004153.m4a",
+    "梦的补充/plus/Recording 20250329004000.m4a",
+    "梦的补充/plus/Recording 20250329003844.m4a",
+    "梦的补充/plus/Recording 20250329003651.m4a",
+    "梦的补充/plus/Recording 20250329003523.m4a",
+    "互联网的某处/plus/Pasted image 20250325191820.png",
     "毕业设计/plus/20250316 使点震荡，存在逃逸和被夹在中间震荡.png",
     "毕业设计/控制程序/plus/Pasted image 20250315040232.png",
     "毕业设计/控制程序/plus/Pasted image 20250315034506.png",
     "毕业设计/控制程序/plus/Pasted image 20250315034552.png",
-    "毕业设计/控制程序/plus/Pasted image 20250315034558.png",
-    "毕业设计/控制程序/plus",
-    "毕业设计/控制程序",
-    "毕业设计/plus/20250310 DS102的驱动速度 - 从用户手册77页.png",
-    "毕业设计/plus",
-    "毕业设计/过时",
-    "MAE151 机械设计/完成任务的文件",
-    "project_打字机/6dots模块研究",
-    "project_打字机/plus/Pasted image 20250309163625.png",
-    "每日的tryCatch（日程记）/plus/P20250308-011921.jpg",
-    "bilibili/plus/Pasted image 20250303215718.png",
     "留学/归档/文书、推荐信.canvas",
     "留学/归档/选校.canvas",
     "MAE151 机械设计/Untitled.canvas",
