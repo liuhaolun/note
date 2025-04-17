@@ -69,4 +69,18 @@ https://www.reddit.com/r/pytorch/comments/1gco8fd/pytorch_not_detecting_my_gpu/ 
 &啊！我竟然要去付费百度的‘飞浆AI社区’以获取在线GPU从而规避本地运行速度慢。1.这是个坏平台，它内容过于嘈杂 2.包装、简化是偷懒想法 3.我重新陷入算力陷阱，忽视了瓶颈在于建模能力
 =>colab等在线计算不被应用，我接受缓慢的训练。
 
-突击，赶着存了一份model. 然而计算速度等问题尚未解决。
+突击，赶着存了一份model. 然而计算速度等问题尚未解决。->计算速度正常。
+
+#2025年04月 #04月06日
+[[torch.utils.data.DataLoader]]
+#### train_and_validate函数
+**切换到train**
+nn.train()
+**在train环节的每epoch中对于每batch**
+optimizer.zero_grad()默认行为，清除pytorch的梯度积累
+outputs=cnn(data)为图片数据进行cnn计算产生结果
+loss=criterion(outputs,targets)计算Cross-Entropy Loss
+loss.backward()反向影响
+optimizer.step()优化
+**从train切换到eval**
+cnn.eval()从而‘dropout神经元’行为被停止。
