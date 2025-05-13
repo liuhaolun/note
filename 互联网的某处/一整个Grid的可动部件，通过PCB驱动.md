@@ -1,0 +1,4 @@
+我看到hackaday的评论，让我更加感受到做出PCB驱动的盲文显示器很有意义。
+```
+Could these be used for the kind of dynamic detent haptic knob things we’ve seen on here a few times? Can’t imagine those need much torque and the relative high cost and large size of the motors those projects used seems like an integrated pcb version would be awesome. Like those powered fader knobs on high end audio mixers, but rotary. Imagine a whole grid of these that rotates automatically to whatever preset for something like a vst plugin. Or even just a input panel like for image editing that can have lots of inputs that are all dynamic feedback.
+```

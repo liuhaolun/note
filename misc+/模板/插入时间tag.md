@@ -1,1 +1,1 @@
-#{{date:YYYY年MM月}} #{{date:MM月DD日}}
+（{{date:YYYY年MM月DD日}}）
