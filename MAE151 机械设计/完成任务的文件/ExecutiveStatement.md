@@ -1,4 +1,4 @@
-#2025年03月 #03月05日
+（2025年03月05日）
 [[plus/BlackstoneLaunchPad_Executive-Summary-Guide_2020.pdf]]
 |为什么上面的文档吸引我，而不是别的指南？->格式和颜色：1.使用了方框checklist 2.用了灰色黑体标题字 3.双列、紧凑文字布局
 LaTeX的效率极其低下，不适合花哨的排版。

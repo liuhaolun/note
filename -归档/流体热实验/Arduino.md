@@ -133,11 +133,11 @@ master出了问题。
 第三个问题是：触发的随机性。通过把按钮接入5V解决了。
 
 我需要request的包括：“cur_device”（保持同步）“cur_desire_temp”"cur_temp"
-#12月22日 request和我想的不同，是Master向Slave要几个字节的数据。
+（2024年12月22日） request和我想的不同，是Master向Slave要几个字节的数据。
 我只需要发送。》循环到最后两char
 
 >我认为遇到的问题是“大系统的熵”。
 
 #### PID对于慢系统很不合适
-#2024年12月 #12月23日
+（2024年12月23日）
 改为使用Fuzzy Control（用数组确定分段，给出一定的PWM值）

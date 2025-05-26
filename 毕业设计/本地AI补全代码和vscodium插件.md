@@ -25,6 +25,6 @@ ggml.ai，ggml技术是whisper.cpp llama.cpp背后的张量计算库。我相信
 ggml-org在hugging face发布了转换为llama.cpp格式的Qwen2.5-coder-1.5B。使用。
 `llama-server.exe -m [FILE_NAME].gguf --port 8012 -c 2048 --n-gpu-layers 99 -fa -ub 1024 -b 1024 -dt 0.1 --ctx-size 0 --cache-reuse 256
 需要使用FIM-compatible models（ggml-org的定义），[插件提供的hgface列表](https://huggingface.co/collections/ggml-org/llamavim-6720fece33898ac10544ecf9)。目前只有qwen。
-#03月14日 FIM指fill in the middle能填入文本中间。
+（2025年03月14日） FIM指fill in the middle能填入文本中间。
 看来没有启动成功..kompute版本。改为cuda版本了，徘徊于细节会模糊目的。
 占到一半GPU。

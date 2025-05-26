@@ -1,4 +1,4 @@
-#2025年02月 #02月18日
+（2025年02月18日）
 #### 下载
 https://developer.android.com/tools/releases/platform-tools?hl=zh-cn
 点击 - 下载适用于 Windows 的 SDK Platform-Tools

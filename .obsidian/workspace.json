@@ -8,82 +8,82 @@
         "type": "tabs",
         "children": [
           {
-            "id": "976e18820319eef4",
+            "id": "04d6d115cf2828de",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "每日的tryCatch（日程记）/2025年5月12日 周一 1点.md",
+                "file": "毕业设计/改善Figure的效果.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025年5月12日 周一 1点"
+              "title": "改善Figure的效果"
             }
           },
           {
-            "id": "8bccb535b39f6f93",
+            "id": "4f24908468adcb68",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "每日的tryCatch（日程记）/2025年5月14日 周三 2点.md",
+                "file": "毕业设计/论文产出 过程/论文 Intro文献综述内容.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025年5月14日 周三 2点"
+              "title": "论文 Intro文献综述内容"
             }
           },
           {
-            "id": "84169c5be52e0fc1",
+            "id": "10bfb7a09c4e61a8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MAE151 机械设计/盲文显示器的成果报告.md",
+                "file": "毕业设计/论文产出 过程/章节 软件描述.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "盲文显示器的成果报告"
+              "title": "章节 软件描述"
             }
           },
           {
-            "id": "2a0d1386bea37a4b",
+            "id": "6f52d88308694a17",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "毕业设计/论文产出 过程/论文 方法部分.md",
+                "file": "每日的tryCatch（日程记）/2025年5月26日 周一 9点.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "论文 方法部分"
+              "title": "2025年5月26日 周一 9点"
             }
           },
           {
-            "id": "5a2ca7ce7cfec81d",
+            "id": "875bacb3c62ac11a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "深度学习练习/MNIST手写数字识别 CNN卷积.md",
+                "file": "毕业设计/论文产出 过程/论文 Intro文献综述内容.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MNIST手写数字识别 CNN卷积"
+              "title": "论文 Intro文献综述内容"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -102,7 +102,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "车针",
+                "query": "查重",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -124,7 +124,7 @@
             }
           },
           {
-            "id": "1de88884d2bcc930",
+            "id": "f1d9d6361ce41949",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -189,7 +189,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 320.5
+    "width": 372.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -200,41 +200,45 @@
       "canvas:新建白板": true
     }
   },
-  "active": "8bccb535b39f6f93",
+  "active": "6f52d88308694a17",
   "lastOpenFiles": [
-    "每日的tryCatch（日程记）/2025年5月12日 周一 1点.md",
-    "每日的tryCatch（日程记）/2025年5月8日 周四 4点.md",
-    "每日的tryCatch（日程记）/2025年5月14日 周三 2点.md",
-    "MAE151 机械设计/盲文显示器的成果报告.md",
-    "-归档/先进制造 final report/内容物.md",
-    "MAE151 机械设计/完成任务的文件/ExecutiveStatement.md",
-    "MAE151 机械设计/W5D3 Design Review 报告.md",
-    "每日的tryCatch（日程记）/2025年5月13日 周二 3点.md",
-    "毕业设计/控制程序/示例DS102驱动程序.md",
-    "毕业设计/控制程序/通信程序：只负责通信，不解算.md",
-    "每日的tryCatch（日程记）/2025年5月10日 周六 3点.md",
-    "misc+/3D打印特征和设计的差距，FDM技术.md",
-    "每日的tryCatch（日程记）/2025年5月9日 周五 8点 雨.md",
-    "每日的tryCatch（日程记）/2025年5月11日 周日 10点.md",
+    "毕业设计/论文产出 过程/章节 软件描述.md",
+    "每日的tryCatch（日程记）/2025年5月26日 周一 9点.md",
+    "毕业设计/论文产出 过程/章节3.3 CNN和k-NN.md",
+    "毕业设计/论文产出 过程/章节3.2 dynamic system.md",
+    "毕业设计/控制程序/未命名.md",
+    "每日的tryCatch（日程记）/2025年5月25日 周日 0点.md",
+    "每日的tryCatch（日程记）/2025年5月24日 周六 4点.md",
+    "毕业设计/毕业设计.md",
+    "MAE151 机械设计/期末提交内容的整理.md",
+    "毕业设计/论文产出 过程/论文 Intro文献综述内容.md",
+    "深度学习练习/MNIST手写数字识别 CNN卷积.md",
     "毕业设计/论文产出 过程/论文 方法部分.md",
-    "毕业设计/论文产出 过程/章节 装置.md",
-    "misc+/打磨的特点.md",
+    "MAE151 机械设计/盲文显示器的成果报告.md",
+    "MAE151 机械设计/plus/BlackstoneLaunchPad_Executive-Summary-Guide_2020.pdf",
+    "MAE151 机械设计/完成任务的文件/评估六组的BusinessPlan.md",
+    "MAE151 机械设计/完成任务的文件/ExecutiveStatement.md",
+    "MAE151 机械设计/完成任务的文件/MAE151项目-盲文显示模块.md",
+    "MAE151 机械设计/完成任务的文件/第三周待办.md",
+    "MAE151 机械设计/组员的投入统计.md",
+    "MAE151 机械设计/第二周待办.md",
+    "MAE151 机械设计/第一周待办.md",
+    "MAE151 机械设计/W1D3.md",
+    "MAE151 机械设计/W8D1.md",
+    "MAE151 机械设计/W7D1 Valid Requirement.md",
+    "MAE151 机械设计/W5D3 Design Review 报告.md",
+    "MAE151 机械设计/W4D1.md",
+    "MAE151 机械设计/W3D3.md",
+    "留学/plus/Affidavit of Support.pdf",
+    "Tags/#想法-误区",
+    "Tags",
     "misc+/plus/氧化铝棱角.png",
     "misc+/plus/金刚石.png",
     "misc+/plus/氧化硅圆点.png",
     "misc+/plus/P20250510-025412，240目.jpg",
-    "每日的tryCatch（日程记）/2025年2月17日.md",
     "misc+/plus/P20250510-024937，1200目.jpg",
     "misc+/plus/P20250510-025101，600目.jpg",
     "misc+/plus/P20250510-025341，300目.jpg",
-    "毕业设计/论文产出 过程/章节 空气轴承.md",
-    "每日的tryCatch（日程记）/2025年3月23日 周日 前夜.md",
-    "每日的tryCatch（日程记）/2025年5月7日 周三 0点.md",
-    "每日的tryCatch（日程记）/2025年3月21日.md",
-    "每日的tryCatch（日程记）/每日的tryCatch（日程记）.md",
-    "毕业设计/机理 - 弹簧/3D打印垫片.md",
-    "project_打字机/6dots模块研究/3D打印的特征检验 安装和运动检验.md",
-    "毕业设计/我的程序算法/双模型架构 允许2%误差.md",
     "毕业设计/plus/Pasted image 20250506053513.png",
     "毕业设计/plus/20250310 DS102的驱动速度 - 从用户手册77页.png",
     "毕业设计/我的程序算法/plus/P20250403-113033.jpg",
@@ -244,10 +248,6 @@
     "毕业设计/机理 - 弹簧",
     "Youtube/plus",
     "project_打字机/无限扩展盲文显示点阵/plus/Spec800.11October2014.final_.pdf",
-    "project_打字机/无限扩展盲文显示点阵/plus",
-    "project_打字机/无限扩展盲文显示点阵",
-    "毕业设计/人工智能/plus/~20250403-113033.tmp",
-    "毕业设计/我的程序算法/plus",
     "留学/归档/文书、推荐信.canvas",
     "留学/归档/选校.canvas",
     "MAE151 机械设计/Untitled.canvas",

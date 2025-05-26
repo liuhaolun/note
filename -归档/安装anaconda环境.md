@@ -1,4 +1,4 @@
-#2025年03月 #03月13日
+（2025年03月13日）
 miniconda不包含任何内容，只有conda用于下载包。
 [python内置packages](https://docs.python.org/3/py-modindex.html)
 [python basic math](https://docs.python.org/3/library/math.html)

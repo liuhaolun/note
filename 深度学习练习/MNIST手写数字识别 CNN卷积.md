@@ -1,4 +1,4 @@
-#2025年03月 #03月29日
+（2025年03月29日）
 (https://www.kaggle.com/datasets/hojjatk/mnist-dataset/data)
 - 共四组gz数据，分为train(60000组)和test(10000组)，分为images&labels
 - 【可用】示例read代码(https://www.kaggle.com/code/hojjatk/read-mnist-dataset)
@@ -22,7 +22,7 @@
 	根据deepseek-chat的表述，我注意到'img->1D array'时自动扁平化，reshape没有生效。
 至此：花费1小时，获得37.5元。
 
-#2025年04月 #04月02日
+（2025年04月02日）
 ####
 2.数据集中图片显示
 `%matplotlib inline`jupyter中的魔法命令，用于在行内显示
@@ -32,7 +32,7 @@
 `plt.axis('off')`必须对每个subplot使用
 至此：花费1小时，获得37.5元
 
-#2025年04月 #04月03日
+（2025年04月03日）
 #### 
 3.CNN层设计
 &我失去了之前编辑的文件，ipynb无法打开了。可见git的重要性。
@@ -41,7 +41,7 @@
 `np.array(x_train).reshape(-1,28,28)`参数-1可以把任意个数的28×28长度向量，转换为矩阵。
 我在`class Dataset(Dataset)`（Dataset引自torch.utils.data）中定义`__init__ __len__ __getitem__`具有特殊语法，`len(data_set)->len data_set[0]->getitem`
 
-#2025年04月 #04月05日
+（2025年04月05日）
 ####
 **criterion:** 模型的loss func.即模型预测结果与最优标签。
 	DL中common tasks：Classification（目前）, Regression回归？, Generative Models
@@ -71,7 +71,7 @@ https://www.reddit.com/r/pytorch/comments/1gco8fd/pytorch_not_detecting_my_gpu/ 
 
 突击，赶着存了一份model. 然而计算速度等问题尚未解决。->计算速度正常。
 
-#2025年04月 #04月06日
+（2025年04月06日）
 [[torch.utils.data.DataLoader]]
 #### train_and_validate函数
 **切换到train**

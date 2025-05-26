@@ -1,4 +1,4 @@
-#2025年03月 #03月31日
+（2025年03月31日）
 Group Relative policy optim. GPRO, Q-Lora
 with countdown game in this blog.
 	-> self-verification and search abilities --- on its own
@@ -29,7 +29,7 @@ hugging face套件，为了使用远程的model versioning service，套件和�
 `login(token="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",add_to_git_credential=True)`
 &我于2024年10月17日生成过token，不能回忆，或许是注册账号自动生成；更合理的解释是尝试克隆声音，却没跟走下去。
 
-#2025年04月 #04月02日
+（2025年04月02日）
 #### 导入Countdown-Tasks-3to4数据库
 &注意到我的typo很多，比如：role->roll, split->spilt显然是写快了。
 
@@ -40,7 +40,7 @@ hugging face套件，为了使用远程的model versioning service，套件和�
 	2025年3月31日"""注意到：我的追求和‘期待改善’不同向。"""
 [[../Reddit/LocalLLaMA/25年4月1周 随便看看 发现openDeepSearch|25年4月1周 随便看看 发现openDeepSearch]]
 
-#2025年04月 #04月02日
+（2025年04月02日）
 由于trl自己会顺带安装依赖项torch和transformers，手动安装导致冲突，出现`TypeError: expected string or bytes-like object, got 'NoneType' 
 我放弃，我无法解决。
 

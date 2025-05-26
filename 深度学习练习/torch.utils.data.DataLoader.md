@@ -1,4 +1,4 @@
-#2025年04月 #04月06日
+（2025年04月06日）
 ```
 DataLoader(dataset, batch_size=1, shuffle=False, sampler=None,
            batch_sampler=None, num_workers=0, collate_fn=None,

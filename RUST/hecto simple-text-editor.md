@@ -12,7 +12,7 @@ Cargo.toml应该位于powershell当前目录
 
 echo "text here" > text.txt 输出UTF-16，非UTF-8不能读取。
 
-#2024年11月29日
+（2024年11月29日）
 反思：好奇底层细节，浪费时间没有学习正确写法
 ##### 编程规范
 - editor.rs > fn evaluate_event > "Handle with events"
@@ -22,13 +22,13 @@ echo "text here" > text.txt 输出UTF-16，非UTF-8不能读取。
 	if width == 0 || height == 0 {} > "Special occasions should be handled"
 - for cur_row in 0..height > if let _ = get(cur_row) > "Use {pos_row} for display row count/ not get row count"
 
-#2024年12月4日
+（2024年12月4日）
 #### Task9
 问：结构不能用default? > 需要执行任务，不是单纯数据
 问：local处理unwrap而非返回？>对外部调用
 问：外部调用产生result？>使用let_=fn放弃处理
 
-#2024年12月9日 
+（2024年12月9日） 
 alternate screen: 退出simple-text-editor后，用户的历史记录不被破坏。
 `new(){}`包括：
 - 返回自己
@@ -86,7 +86,7 @@ move：【周围所有】所有权传递给函数。
 一方面这些是复杂的，另一方面要乐观：复杂的东西都是简单的东西的集合，并且这种集合可以被人类的神经描述。神经远比这些都复杂。
 
 
-#2025年01月 #01月05日 #结论 照抄代码没有任何用处，我照着答案改，改不出自己的风格来，且使写代码变麻烦了。
+（2025年01月05日） #结论 照抄代码没有任何用处，我照着答案改，改不出自己的风格来，且使写代码变麻烦了。
 
 #### 记录改变
 - `Editor{view,position}->Editor{View{position}}`导致了`repl:move_cursor_to(p)`需要从`view`中获取：`self.view.get_position()`

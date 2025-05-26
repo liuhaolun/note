@@ -1,4 +1,4 @@
-#2025年04月 #04月16日
+（2025年04月16日）
 在libgen的官网首页
 ``ex libgen.io, libgen.org, alternative domains: *.lc, *.li, *.gs, *.vg, *.la, *.bz, *.gl
 &obsidian的斜体处理真是一团糟。

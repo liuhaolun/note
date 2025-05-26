@@ -1,4 +1,4 @@
-#2024年12月3日
+（2024年12月3日）
 #### 尝试通过bun启动tauri
 要求安装vite：bun add -D vite
 相比cargo rust版本，vite版能直接在浏览器启动。

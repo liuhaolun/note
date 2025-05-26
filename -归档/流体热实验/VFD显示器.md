@@ -112,7 +112,7 @@ void write_font(uint8_t x, uint8_t y,uint8_t *s){
 
 #### Serial.println和显示冲突？？？
 #### onReceive中的某部分和显示冲突
-#2024年12月 #12月22日
+（2024年12月22日）
 delay(200);不影响显示。
 switch屏蔽掉？
 验证了：Serial.print和显示冲突。
