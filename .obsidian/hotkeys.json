@@ -22,5 +22,13 @@
       "key": "F"
     }
   ],
-  "make-md:mk-blink": []
+  "make-md:mk-blink": [],
+  "chatgpt-md:call-chatgpt-api": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "J"
+    }
+  ]
 }
