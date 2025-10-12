@@ -20,7 +20,7 @@
   "spacesEnabled": true,
   "syncFormulaToFrontmatter": true,
   "spacesPerformance": false,
-  "currentWaypoint": 3,
+  "currentWaypoint": 2,
   "enableFolderNote": true,
   "folderIndentationLines": false,
   "revealActiveFile": false,
@@ -93,7 +93,11 @@
     "//项目 -盲文显示阵列/项目 -盲文显示阵列/project_打字机",
     "每日的tryCatch（日程记）",
     "//001 杂项",
-    "//001 杂项/001 杂项/模板"
+    "//001 杂项/001 杂项/模板",
+    "021 RUST 软件相关",
+    "021 RUST 软件相关/021 RUST 软件相关/Geometry&GUI 设计",
+    "021 RUST 软件相关/Geometry&GUI 设计",
+    "021 RUST 软件相关/021 RUST 软件相关/-归档"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",
