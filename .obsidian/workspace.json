@@ -4,22 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "178716ea159660b1",
+        "id": "857cb00e99d7bcab",
         "type": "tabs",
         "children": [
           {
-            "id": "4d0454a2ae054def",
+            "id": "3ef84355a05bf614",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "每日的tryCatch（日程记）/2025年11月19日 18点.md",
+                "file": "每日的tryCatch（日程记）/25年10-12/2025年12月15日 17点.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025年11月19日 18点"
+              "title": "2025年12月15日 17点"
             }
           }
         ]
@@ -36,12 +36,24 @@
         "type": "tabs",
         "children": [
           {
+            "id": "65227987a7cb2b21",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
             "id": "d8e3d34eeacd5aca",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "剑士",
+                "query": "tag:#想法-发现",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -50,6 +62,40 @@
               },
               "icon": "lucide-search",
               "title": "搜索"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 328.50925064086914
+  },
+  "right": {
+    "id": "bc71fd661f11f13e",
+    "type": "split",
+    "children": [
+      {
+        "id": "296e3824610624f2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d49ff0fcfc2aa6c6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "每日的tryCatch（日程记）/25年10-12/2025年12月15日 17点.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "2025年12月15日 17点 的反向链接列表"
             }
           },
           {
@@ -61,133 +107,66 @@
               "icon": "lucide-bookmark",
               "title": "书签"
             }
-          },
-          {
-            "id": "d77c284c5a4733d7",
-            "type": "leaf",
-            "state": {
-              "type": "mk-path-view",
-              "state": {},
-              "icon": "layout-grid",
-              "title": "Navigator"
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 329.5049018859863
-  },
-  "right": {
-    "id": "bc71fd661f11f13e",
-    "type": "split",
-    "children": [
-      {
-        "id": "5b9036500f3bf7b1",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "16a86dbf4e10a8a9",
-            "type": "leaf",
-            "state": {
-              "type": "file-properties",
-              "state": {
-                "file": "000 归档/怎样使用笔记/怎样使用笔记.md"
-              },
-              "icon": "lucide-info",
-              "title": "怎样使用笔记的笔记属性"
-            }
-          },
-          {
-            "id": "cc461991d770b877",
-            "type": "leaf",
-            "state": {
-              "type": "all-properties",
-              "state": {
-                "sortOrder": "frequency",
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-archive",
-              "title": "添加笔记属性"
-            }
-          },
-          {
-            "id": "9fdd2b25e81e9309",
-            "type": "leaf",
-            "state": {
-              "type": "make-context-view",
-              "state": {},
-              "icon": "component",
-              "title": "Explorer"
-            }
-          }
-        ],
-        "currentTab": 2
-      }
-    ],
-    "direction": "horizontal",
-    "width": 372.5
+    "width": 334.5
   },
   "left-ribbon": {
-    "hiddenItems": {
-      "switcher:打开快速切换": false,
-      "command-palette:打开命令面板": false,
-      "audio-recorder:开始/结束录音": false,
-      "canvas:新建白板": true
-    }
+    "hiddenItems": {}
   },
-  "active": "4d0454a2ae054def",
+  "active": "d8e3d34eeacd5aca",
   "lastOpenFiles": [
-    "每日的tryCatch（日程记）/2025年11月18日 21点.md",
-    "每日的tryCatch（日程记）/2025年11月19日 18点.md",
-    "每日的tryCatch（日程记）/2025年11月17日 23点.md",
-    "每日的tryCatch（日程记）/2025年11月16日 0点.md",
-    "每日的tryCatch（日程记）/2025年11月14日 12点.md",
-    "每日的tryCatch（日程记）/2025年11月7日 19点.md",
-    "每日的tryCatch（日程记）/2025年11月1日 16点.md",
-    "每日的tryCatch（日程记）/2025年10月31日 17点.md",
-    "消磨时间的内心角色扮演模拟对战/二阶角色：星星巫师 lv2 Class, Star Witch.md",
-    "消磨时间的内心角色扮演模拟对战/消磨时间的内心角色扮演模拟对战.md",
-    "kgbook.com.md",
-    "Reddit/Reddit.md",
-    "每日的tryCatch（日程记）/2025年10月30日 15点.md",
-    "消磨时间的内心角色扮演模拟对战",
-    "每日的tryCatch（日程记）/2025年10月24日 6点.md",
-    "每日的tryCatch（日程记）/2025年10月23日 次日1点.md",
-    "每日的tryCatch（日程记）/2025年10月25日 19点 田二河镇.md",
-    "每日的tryCatch（日程记）/2025年10月26日 12点 田二河镇.md",
-    "每日的tryCatch（日程记）/2025年10月15日 15点.md",
-    "每日的tryCatch（日程记）/2025年10月29日 7点.md",
-    "每日的tryCatch（日程记）/2025年10月27日 20点.md",
-    "每日的tryCatch（日程记）/2025年10月22日 次日0点.md",
-    "每日的tryCatch（日程记）/2025年10月21日 15点.md",
-    "每日的tryCatch（日程记）/2025年10月20日 17点.md",
-    "每日的tryCatch（日程记）/2025年8月22日 周五 17点.md",
-    "每日的tryCatch（日程记）/2025年8月26日 周二 18点.md",
-    "每日的tryCatch（日程记）/2025年8月23日 周六 17点.md",
-    "每日的tryCatch（日程记）/plus/P50215-144313.jpg",
+    "每日的tryCatch（日程记）/25年10-12/2025年12月14日 17点.md",
+    "每日的tryCatch（日程记）/25年10-12/2025年12月15日 17点.md",
+    "每日的tryCatch（日程记）/25年10-12/2025年12月11日 20点.md",
+    "011 留学/德国APS注册 验证成绩单 面试.md",
+    "011 留学/归档/1月3日 还有未开始的沟通.md",
+    "011 留学/归档/-归档：托福.md",
+    "001 杂项/001 杂项.md",
+    "002 跟不上规划 弃置的/002 跟不上规划 弃置的.md",
+    "011 留学/26年秋季入学 备选学校.md",
+    "011 留学/011 留学.md",
+    "011 留学/可选的（春季）留学学校.md",
+    "每日的tryCatch（日程记）/25年10-12/2025年11月27日 13点.md",
+    "每日的tryCatch（日程记）/00 梦的补充/2024年11月25日 诡恐的梦.md",
     "每日的tryCatch（日程记）/plus/P20250427-181009，顶部黄圈和靠近桌面的压合.jpg",
     "每日的tryCatch（日程记）/plus/P20250308-011921.jpg",
     "每日的tryCatch（日程记）/plus/P20250301-234240.jpg",
     "每日的tryCatch（日程记）/plus/P20250227-141131.jpg",
-    "plus/关于2025届本科毕业论文（设计）工作安排的通知-大连理工大学教务处.pdf",
-    "002 跟不上规划 弃置的",
-    "plus/Recording 20241220122300.m4a",
-    "毕业设计/plus/2024-12-30 11.02.10 webvpn.dlut.edu.cn cc599cd10d52.png",
-    "000 归档/先进制造 final report/White paper on smart manufaturing ISO 2021.pdf",
-    "000 归档/先进制造 final report/Pasted image 20241108203041.png",
-    "000 归档/先进制造 final report/Pasted image 20241108202516.png",
-    "000 归档/先进制造 final report/Pasted image 20241108202513.png",
-    "000 归档/先进制造 final report/Pasted image 20241108202453.png",
-    "项目 -盲文显示阵列/0归档",
-    "项目 -盲文显示阵列/plus",
-    "毕业设计/空气轴承 常用的系数.pdf",
-    "项目 -盲文显示阵列",
+    "每日的tryCatch（日程记）/plus/P50215-144313.jpg",
+    "每日的tryCatch（日程记）/plus/Recording 20251210001834.m4a",
+    "每日的tryCatch（日程记）/25年10-12/2025年10月1日 周三.md",
+    "每日的tryCatch（日程记）/25年7-9/2025年7月1日 周二 0点.md",
+    "每日的tryCatch（日程记）/25年10-12",
+    "每日的tryCatch（日程记）/25年4-6/2025年4月1日 周二 午后.md",
+    "每日的tryCatch（日程记）/25年7-9",
+    "每日的tryCatch（日程记）/25年1-3/2025年1月5日 开始日程tryCatch.md",
+    "每日的tryCatch（日程记）/25年4-6",
+    "每日的tryCatch（日程记）/25年1-3",
+    "每日",
+    "000 归档/01 记录网络的尝试/Reddit/LocalLLaMA/25年4月1周 随便看看 发现openDeepSearch.md",
+    "每日的tryCatch（日程记）/25年4-6/2025年4月2日 周三 夜中.md",
+    "每日的tryCatch（日程记）/25年4-6/2025年6月29日 周日 0点.md",
+    "001 杂项/SOLIDWORKS赞助 和 邮箱被盗.md",
+    "000 归档/bio-inspired robotics/HW1.md",
+    "011 留学/归档/创建了临时的邮箱账户.md",
+    "每日的tryCatch（日程记）/25年7-9/2025年7月28日 周一 19点.md",
+    "001 杂项/rebelle 7 绘画软件 破解.md",
+    "每日的tryCatch（日程记）/25年7-9/2025年7月5日 周六 0点.md",
+    "plus/Recording 20251210014319.m4a",
+    "plus",
+    "001 杂项/plus/Recording 20241225202154.m4a",
+    "001 杂项/plus/Recording 20241220122300.m4a",
+    "000 归档/01 记录网络的尝试/互联网的某处/plus/僵尸毁灭工程-mod狗翻栅栏.gif",
+    "000 归档/01 记录网络的尝试/互联网的某处/plus/Pasted image 20250325191820.png",
+    "000 归档/01 记录网络的尝试/互联网的某处/plus/Pasted image 20250301001503.png",
+    "000 归档/01 记录网络的尝试/互联网的某处/plus/Pasted image 20250220002724.png",
+    "000 归档/01 记录网络的尝试/互联网的某处/plus/Pasted image 20250123195336.png",
     "//Untitled.canvas",
     "Untitled.canvas",
-    "ChatPlugin_BMO",
     "011 留学/归档/文书、推荐信.canvas",
     "011 留学/归档/选校.canvas",
     "MAE151 机械设计/Untitled.canvas",

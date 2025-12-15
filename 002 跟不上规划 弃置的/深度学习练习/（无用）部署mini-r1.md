@@ -14,7 +14,7 @@ with countdown game in this blog.
 ！我忘了通过uv而非pip进行安装
 `pip install flash-attn
 	高效attention计算
-	[[../../毕业设计/（无关）Nvidia深度猜测软件|（无关）Nvidia深度猜测软件]]找回了flash-attn安装的解决方法
+	[[../../000 归档/01 已完成的--毕业设计/（无关）Nvidia深度猜测软件|（无关）Nvidia深度猜测软件]]找回了flash-attn安装的解决方法
 ```
 pip install  --upgrade \
   "transformers==4.48.1" \

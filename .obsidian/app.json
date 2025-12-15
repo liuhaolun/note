@@ -12,9 +12,17 @@
     "downscalePercent": 100
   },
   "showInlineTitle": true,
-  "showLineNumber": false,
+  "showLineNumber": true,
   "rightToLeft": false,
-  "foldHeading": false,
+  "foldHeading": true,
   "foldIndent": false,
-  "readableLineLength": false
+  "readableLineLength": false,
+  "promptDelete": false,
+  "livePreview": true,
+  "showRibbon": true,
+  "defaultViewMode": "preview",
+  "focusNewTab": true,
+  "strictLineBreaks": false,
+  "propertiesInDocument": "visible",
+  "vimMode": false
 }

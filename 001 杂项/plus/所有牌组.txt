@@ -1,0 +1,136 @@
+#separator:tab
+#html:false
+#deck column:1
+#tags column:4
+「想象」和思考学	对照抄写书上的内容	应该记忆一面书，尝试复原笔记	
+「想象」和思考学	底层人思维才是通过视频看！	喜欢的话，自己去做。	
+「想象」和思考学	沟通练习的方法	我使用语言；「想象」能听懂，用图像、意象进行表达。	
+「想象」和思考学	“不知道时的摇摆不定”现象	我观察到当“两个人说出近似回应”，“被要求重复时”，（一般人）“动摇回答”。  感觉愚昧。	
+「想象」和思考学	世界只给我留了这么点时间	我的生命，在世上的时间，做点什么。	
+「想象」和思考学	所谓‘找到有价值的视频’的实质	是希望找到有吸引力的长视频，这固然是少的。我们假设有吸引力的视频占到1/10，长视频4/100，那么250个视频里才有的一个，你又如何能总是找到？怎么可能成为一整个“长系列”。  对了：长系列。如果是艺术作品，由一位艺术家或许多娱乐工业的参与者完成的，其或许就值得欣赏了：那些高分的电影、电视剧、动画、绘画。或者那些感兴趣的，又不止于分享的内容，即并非日常的记录，而是为了做成视频的视频。那些...我想不出了。「」普通人把长期内经验堆在一起分享出来。  这样的吗？没有一个产品作为主体，而是针对了某个主题的？兴趣爱好，制作者的兴趣爱好...往往是孤例，否则就成了创作者了。  另一点：兴趣。我还是喜欢手工化的工业的，也有了条件进行一些，所以可以了解了解。这方面都是很长、很‘一开始信息爆炸，看多了才会重复’的系列视频，既然找到了，就可以花很长、很长时间看完，练习完。 正如我在开始说的，这并不有吸引力。	
+blender	使用vertex 对雕刻成品 重新拓扑（布线）	在edit模式，对点进行“Extrude to Cursor”；（调整到点模式，vertex才显示） 开启“顶栏”磁铁图标，调整为“Face Project”。	
+blender	线条连接	"""Vertex""-""Make Edge/Face"">空心线条； ""Vertex""-""Connect Vertex /?"">面上线条划分； ""Edge""-""Subdivide"">分隔线条，避免三角形。"	
+blender	Bezier曲线放样	"右侧栏-""Data""-""Geometry""-""Bevel""，""Bevel""-选择Object（限定curve）； ""Taper""，选择另一条Bezier曲线，曲线的x轴沿原曲线推进、y轴对应缩放大小。"	
+blender	实体放样；曲线-网格转换	顶栏::Object::Convert=> 转换后，可以用于Bevel放样。	
+blender	Knife Project	Object Mode选中目标切割，进入Edit Mode; 选中物品栏::切割器； Mesh::knife project	
+misc+	三文鱼就是大西洋鲑鱼，鲑鱼生活在？	深海、冷水鱼；三文鱼稍小，为冷水鱼。	
+misc+	鸲	qu2	
+misc+	䴓	shī	
+misc+	鹬	yu4	
+misc+	鸻	heng2	
+「想象」和思考学	有什么想做的话，却不想做的时候	最好试试让想法成为实体，“喊出来。”	
+「想象」和思考学	我不打算在任何探查中退缩	哪怕是去做了而得到“意料之中”“否定”的回应，然后无地自容、痛骂自己。	
+misc+	使用windows键+。，可调出符号输入	符号输入可以输入m dash — n dash – hyphen-	
+「想象」和思考学	小米的签字笔设计不好	侧边的凸起并不让人想到按下去	
+「想象」和思考学	七彩横条和黑色字体	完全模糊了，紫色的，所以不要有七种颜色同时出现。最多3种吧？	
+Rust	pub(super) fn hide_cursor() -> Result<(),Error> { execute!({{c1::stdout()}},crossterm::cursor::Hide){{c1::?}}; {{c1::Ok(())}} }	输出，unwrap，返回不加“；”	
+Rust	ERROR::expected Result<Size,Error>, found Size  当前最后一行： let s=Size{}; s	用Ok(s)	
+Rust	"struct Person{ name:String, age:u32 } 在函数中， let person=Person{name:""David"".ToString,age:20}; let name=String::from(""David""); let age=20; let person1=Person{name,age};//此处简拼"		
+Rust	let Person{name:_,age:age1}=person;	此处使用了discard，因为struct的每个变量有名字，所以discard需要名字。	
+misc+::提醒课业复习	机器人-I×w		
+misc+::提醒课业复习	先进制造-硅斜面		
+misc+::提醒课业复习	流热实验-Uncertainty		
+misc+::提醒课业复习	机器人-Inv Matrix		
+英文语料库	cause that is exhausting to me	让我很累	
+「想象」和思考学	我都不和人交流，偏偏却在意他人想法。		
+英文语料库	you can think of the capacitance C as the mads in the circuit world that causes a smooth transition when changing voltages from one value to another.		
+英文语料库	As the exalting（抬升） one man so greatly above the rest _ so neither can it be defended _	cannot be justified on the equal rights of nature; on the authority of scripture（宗教）	
+英文语料库	as to usurpation, no man will be so hardly as to defend it; and that William the Conquer was an userper is a fact not to be contradicted.		
+绘画	笔刷的multiply意味着多次绘制只会叠加		
+绘画	Krita中，怎样剪切涂层，使下方涂层透明的部分，在这一层也被剪去。	创建图层组，选择图层旁边α，透明度继承下方图形	
+misc+	方式描述“物体很贵”	不使用数额，而是同类对比。	
+英文语料库	is easier said than done.		
+英文语料库	Instead of attracting potential collaborators or funders, it’s only successful at repelling meaningful connections.		
+英文语料库	so forget they exist.	动词。 和另一个：Costco was forced to recall nearly 8000 pounds of butter because the label failed in mention it contains milk.	
+英文语料库	Personally, I prefer having a teacher who lets students work independently and only checks in occasionally. This approach fosters self-reliance and critical thinking skills.		
+英文语料库	When teachers constantly supervise and check work, it can create a dependency where students always look for external validation. In contrast, having more autonomy encourages students to problem-solve on their own and develop confidence in their abilities.		
+英文语料库	Additionally, this teaching style better prepares students for real-world scenarios, where they'll need to manage their time and tasks independently. It also allows for more creativity and personalized learning approaches.		
+misc+	摇晃手旋转，左右踱步，表现了？	局促的动作，宁可干站着也不要有。	
+「想象」和思考学	如果你不打算练，	那你干嘛要学呢？	
+英文语料库	That is the stoff the human experience is made of.		
+英文语料库	Fragile is a word that represents today's models very well to me.		
+misc+	买东西和部署工具都很耗费精力	我减少做。	
+blender	调整为毫米，需要scene缩放0.001，和主界面-右上角-视图叠加层，格栅0.001		
+英文语料库	This omission can scarcely be viewed as accidental.		
+英文语料库	I relate to this a lot, and I appreciate you bravery.		
+misc+	The prefix “non” is not a word; it should be joined to the word it modifies, usually without a hyphen.		
+misc+	·        There is no period after the “et” in the Latin abbreviation “et al.”.		
+misc+	·        In American English, commas, semi-/colons, periods, question and exclamation marks are located within quotation marks only when a complete thought or name is cited, such as a title or full quotation. When quotation marks are used, instead of a bold or italic typeface, to highlight a word or phrase, punctuation should appear outside of the quotation marks. A parenthetical phrase or statement at the end of a sentence is punctuated outside of the closing parenthesis (like this). (A parenthetical sentence is punctuated within the parentheses.)		
+misc+	·        A graph within a graph is an “inset”, not an “insert”. The word alternatively is preferred to the word “alternately” (unless you really mean something that alternates).		
+misc+	Do not use the word “essentially” to mean “approximately” or “effectively”.		
+misc+	Be aware of the different meanings of the homophones “affect”（adversely不利的） and “effect”, “complement” 补充 and “compliment” 赞美, “discreet” 小心的 and “discrete”离散, “principal” 主要 and “principle” 原则.		
+misc+	·        The abbreviation “i.e.” means “that is”, and the abbreviation “e.g.” means “for example”.		
+英文语料库	According to the Educational Finance Statistics Center (EDFIN), the per-pupil laboratory funding in U.S. schools averaged less than $100 annually between 2020 and 2023.		
+英文语料库	before you {{c1::commit}} to adopting a puppy, please remember that there are 3 {{c1::stages}} of development. PLEASE PLAN ACCORDINGLY. 通知贴纸		
+英文语料库	20 dollar voucher 20美元奖金 phishing test out by IT.		
+英文语料库	a hero focuses on righting injustices and thwarting the schemes of a billionaire being the greatest villian of superman.		
+英文语料库	TIL for today I learned.		
+英文语料库	etc. for et cetera.		
+misc+	使用强力磁铁（写字板）远离HDMI，会切换模式。		
+misc+	贴银铜泡（有点像盔、鼓起有檐）是盔甲装饰扣		
+「想象」和思考学	想不到：要在设置-“insert改写”后，word	我知道insert可以，就该想到设置界面选项	
+misc+	equipment 还是 equipments	事实上，它不可数，does not have a plural form	
+misc+	千页豆腐：火锅盖子高压胀大，开盖缩小		
+英文语料库	Nothing would make me happier. Take the stagnant money with them. It aint doing jack anyway but buying back their stocks		
+英文语料库	Not a theory, is a theorem. Theorys can be rebated, theorems just are.		
+misc+	在vscode中，使用Ctrl+j切换面板（终端）显示		
+matlab	请注意，conv([1],[1,12,32])代表1*(s^2+12s+32) convolve，用于两个polynomials相乘		
+matlab	polynomials表示的两种方式，poly([0,-1-2])或[1,3,2]		
+matlab	roots(P1)获取数值解		
+matlab	[r,p,k]=residue(a,b)获取a as numerator, b as denominator的partial-diffraction. r,p,k是什么	r是每个分解项的numerator， n是对应denominator， k在中=0.5，直接quotient（商） [r,p,k]=residue([1,2,4],[2,4,8])	
+英文语料库	to one another; 即另外的1个		
+misc+	vivaldi:settings/content/siteData 禁止网页保存数据，使部分“login wall”网页可以访问		
+Rust	if let Key(KeyEvent {             code,             modifiers,             kind: KeyEventKind::Press,             ..         }) = event	通过..进行模式匹配，通过kind:限制匹配	
+Rust	KeyCode::Up|KeyCode::Down|KeyCode::Left|KeyCode::Right|Ke 用|表并列		
+Rust	y=min(x.saturating_add(1), width.saturating_sub(1)) min不能直接调用，其要求了（T,T）->T，必须有返回值。		
+Rust	KeyCode::Up => {y.saturating_sub(1);} 返回（），match的全部分支必须返回相同值   误注：y.saturating_sub(1)有返回值=y-1，赋值语句没有返回值，y=y.saturating_sub(1)才是合理的		
+Rust	Position { col:self.location.x, self.location.y } 请看出错误来	前者正确，必须要按 struct Position{col,row}名称提供数据	
+Rust	x = width.saturating_sub(1) 还是？ width.saturating_sub(1)	前者正确，saturating_sub返回一个值，必须使用。	
+misc+::提醒课业复习	扇形积分matlab		
+Rust	Result<(), Error>	尖括号，不是{}或()	
+Rust	match keycode	匹配变量，不要匹配上KeyCode	
+Rust	fn move_position(&mut self, keycode: KeyCode) -> Result<(), Error> {	不是=>而是->	
+misc+	ampersand &		
+Rust	let vec=self.buffer.entry;   if let Some(element)=self.buffer.entry.get(current_row) 前者不可用	前者是一个指针，被传递；后者提供一个ref	
+Rust	"let temp=std::fs::read_to_string(""Cargo.toml"")?; Cargo run默认目录是项目基础目录，而非target/debug/目录； 通过echo """" > text.txt创建的非utf-8文件，不予显示。"	然而，通过powershell运行，目录是simple_text_editor\target\debug；	
+Rust	使用“文件”>“首选项”>“配置文件”切换vscodium配置		
+「想象」和思考学	节制饮食：预定食物，减少20%		
+「想象」和思考学	用10分钟绘画能有效？小技法。		
+「想象」和思考学	《月思维共享》用于导出日记的点子		
+「想象」和思考学	睡前该妄想一段。		
+misc+	they 搭配 love	they指代动物或性别不明的人，they仍搭配去s形式动词	
+Rust	cargo add wgpu@22.0 @使用特定版本		
+Rust	if index+1%width==0 发现问题	(index+1)	
+misc+	消字板 描述一下	不锈钢多异形镂空，用于铅笔设计字体中、框选擦去部分铅字。	
+misc+	巴氏小体	生物的XO♀个体和XX♀个体均能存活，故细胞中只有一个X染色体活性。 去激活是随机的，导致三花母猫有黑、黄颜色，因为两个X染色体毛色不同。 在体育赛事中，巴氏小体方法用于鉴定性别。即两个X染色体为女性： XXY女性	
+misc+	果溶	果粉，用在咖喱里	
+misc+	辣椒粉具有营养	蛋白质16g、碳水60g、脂肪12g	
+misc+	用了1小时解决一个问题：当电脑供电连接到slave板，master板的S1和S2按钮，电位发生偏移（相比较连接到master板）。		
+misc+	承德有炸烧饼特色美食		
+「想象」和思考学	大量思考可以清理“碎片”的痕迹	在完成以伴云游学，进行了4小时的准备和1.5小时讲述后，完全失去了其他碎片信息（梦、忘记）的线索。	
+Rust	正则表达式的英文	regular expression Regex	
+blender	透视/正交，怎么切换视图的，怎么切换渲染的	在x-y-z轴最左侧，格子圆钮，点击； 选中camera，属性栏，orthographic	
+misc+	避免使用多个解法，我加速“流体热实验”电解液加热： PU管放入热水打了开水倒入热水 结果是，2生效后，没有取消1，许久后导致了PU管融化。		
+「想象」和思考学	我憎恨不确定和不必要的分享	补充：“编造Santa Cruz offer”导致了当学院指标+1时，被询问“提供截图”，增添麻烦。 空口编造，既然无收益、就无价值	
+「想象」和思考学	无故分享信息，以“涉密”为帅气，和张顺飞以自称劳改犯为帅气一样，很顺。		
+「想象」和思考学	由于单次学习的效率低，且不能对应四次复习，所以我设定了单次学习的“掌握率”。大约是？	不到1/2，超过3/4，超过90%，超过97%	
+「想象」和思考学	我对simple_text_editor的复杂想到： 一方面这些是复杂的，另一方面要乐观：复杂的东西都是简单的东西的集合，并且这种集合可以被人类的神经描述。神经远比这些都复杂。		
+misc+	word中自动分词auto hyphenation	layout 布局-hyphenation 断字-“自动”即随时，“手动”会在点击时处理选中文字	
+misc+	word 插入目录	reference 引用-table of content 目录	
+misc+	list of figures/ list of tables 插入表目录	reference 引用-插入表目录	
+「想象」和思考学	处理浅小问题，曾犯过的	没有发现的很多，发现的影响很小。我不需要处理	
+misc+	蒯	kuai3 另外，搜狗输入法快捷输入：kuai[tab]c(草字头首字母)	
+misc+	巉	chan2	
+「想象」和思考学	“事实上，其他组员很少上课。”这样说合适吗？ 这种表达导致了歧义。出现在我的推荐信翻译中。	通过引号，我表示出‘文本翻译为...’，而我希望表达‘如果这么说合适吗？’ 如果这样说是否合适：事实上，其他组员很少上课。	
+misc+	马鲛鱼即鲅鱼		
+misc+	word根据语言，选项分化。 缩进 换行符	英语缩进0.5 英寸（1.27 厘米），中文缩进0.74 厘米（2个5号字）； 中文换行才是回车符号。	
+misc+	法国共和历，是基于格里高利历的影响，修改而来的。表现为：1.数千个圣徒的名字原本在每日分散，现在改为果树花种矿、周五动物、休息日工具的名字。     而另一方面，采用了简单、平均的做法：每年分为36旬，旬末休息1日。     由于1月1日是耶稣割礼的日子，所以历元为法国一共建成的1792年9月22日（并是秋分。确定秋分日为年初），月份分别为葡月、雾月、霜月、雪月、雨月、风月、芽月、花月、牧月、获月、热月、果月。		
+misc+	埒	lie4 是古代计量容器 表示等同 富埒王侯 富埒陶（陶朱公 范蠡li3）白（白圭）	
+「想象」和思考学	“搞笑”并非广泛可用的词语，略带有对他人工作的贬低。我可以替换为？ 我有时好为人师地对他人的贡献提出自己的建议，看到别人同样这么做，觉得不合理。？	替换为‘轻松愉快’、‘诙谐’、‘幽默’。 所以即便用‘小建议’‘个人’作为修饰，攻击力不会减弱；攻击力来自内容本身。	
+misc+	思忖	cun3	
+「想象」和思考学	离开了情境就发现咀嚼细节的无谓。	喂猫时候用冻干都在比较好坏。完完全全是‘追求更好却不知道怎样追求’。	
+misc+	阿克曼角-前车轮的转向角度不同	两个平行前轮，如果用正方形四杆机构，旋转时两轮转动角度相同，然而不能指向转向圆心。 家用车使用接近于“100%阿克曼角”（有待验证），通过使用梯形四杆机构，使两轮转动角度不同。  然而，F1赛车转向时一侧轮几乎离地，那么更大的转向比，“反阿克曼角”被使用。	
+misc+	把“顺颂时祺”用在书信结尾		
+misc+	标准化组织，ISO和ASME	可在官网获得各种标准，比如GD&T形位公差 然而，官网只提供收费信息，我需要另寻途径	
+misc+::提醒课业复习	2025年3月29日 mnist读取数据 python		
+misc+::提醒课业复习	2025年3月29日 blender的矢量计算		

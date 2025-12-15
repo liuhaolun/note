@@ -3,5 +3,6 @@
   "textFontFamily": "Fira Code,OPPO Sans 4.0",
   "monospaceFontFamily": "Fira Code",
   "nativeMenus": false,
-  "accentColor": "#69c387"
+  "accentColor": "#69c387",
+  "showViewHeader": true
 }
