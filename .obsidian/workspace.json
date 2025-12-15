@@ -64,8 +64,7 @@
               "title": "搜索"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -117,7 +116,7 @@
   "left-ribbon": {
     "hiddenItems": {}
   },
-  "active": "d8e3d34eeacd5aca",
+  "active": "65227987a7cb2b21",
   "lastOpenFiles": [
     "每日的tryCatch（日程记）/25年10-12/2025年12月14日 17点.md",
     "每日的tryCatch（日程记）/25年10-12/2025年12月15日 17点.md",

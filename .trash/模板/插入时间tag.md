@@ -1,1 +1,0 @@
-（{{date:YYYY年MM月DD日}}）
