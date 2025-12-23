@@ -20,7 +20,7 @@
   "promptDelete": false,
   "livePreview": true,
   "showRibbon": true,
-  "defaultViewMode": "preview",
+  "defaultViewMode": "source",
   "focusNewTab": true,
   "strictLineBreaks": false,
   "propertiesInDocument": "visible",

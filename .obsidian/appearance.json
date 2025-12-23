@@ -1,8 +1,11 @@
 {
-  "interfaceFontFamily": "OPPO Sans 4.0 Medium",
-  "textFontFamily": "Fira Code,OPPO Sans 4.0",
+  "interfaceFontFamily": "victor mono medium,OPPO Sans 4.0 Medium",
+  "textFontFamily": "Victor Mono,思源宋体 CN,OPPO Sans 4.0",
   "monospaceFontFamily": "Fira Code",
   "nativeMenus": false,
   "accentColor": "#69c387",
-  "showViewHeader": true
+  "showViewHeader": true,
+  "theme": "moonstone",
+  "cssTheme": "Border",
+  "baseFontSize": 16
 }

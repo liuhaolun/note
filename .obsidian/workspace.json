@@ -4,22 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "857cb00e99d7bcab",
+        "id": "b4a62433ad282d4b",
         "type": "tabs",
         "children": [
           {
-            "id": "3ef84355a05bf614",
+            "id": "c35b783f03bdda63",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "每日的tryCatch（日程记）/25年10-12/2025年12月15日 17点.md",
+                "file": "每日的tryCatch（日程记）/25年10-12/2025年12月23日 13点.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025年12月15日 17点"
+              "title": "2025年12月23日 13点"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#想法-发现",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -84,17 +84,17 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "每日的tryCatch（日程记）/25年10-12/2025年12月15日 17点.md",
+                "file": "每日的tryCatch（日程记）/25年10-12/2025年12月23日 13点.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "2025年12月15日 17点 的反向链接列表"
+              "title": "2025年12月23日 13点 的反向链接列表"
             }
           },
           {
@@ -107,70 +107,71 @@
               "title": "书签"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 334.5
+    "width": 299.5
   },
   "left-ribbon": {
     "hiddenItems": {}
   },
-  "active": "65227987a7cb2b21",
+  "active": "c35b783f03bdda63",
   "lastOpenFiles": [
-    "每日的tryCatch（日程记）/25年10-12/2025年12月14日 17点.md",
-    "每日的tryCatch（日程记）/25年10-12/2025年12月15日 17点.md",
-    "每日的tryCatch（日程记）/25年10-12/2025年12月11日 20点.md",
-    "011 留学/德国APS注册 验证成绩单 面试.md",
-    "011 留学/归档/1月3日 还有未开始的沟通.md",
-    "011 留学/归档/-归档：托福.md",
-    "001 杂项/001 杂项.md",
-    "002 跟不上规划 弃置的/002 跟不上规划 弃置的.md",
-    "011 留学/26年秋季入学 备选学校.md",
-    "011 留学/011 留学.md",
+    "001 杂项/2025-12-23 配置obsidian主题.md",
+    "每日的tryCatch（日程记）/25年10-12/2025年12月23日 13点.md",
+    "每日的tryCatch（日程记）/25年10-12/2025年12月9日 20点.md",
+    "001 杂项/想法/问：人如何能不被欲望控制.md",
+    "001 杂项/从Joplin搬运 2023上年.md",
+    "未命名.canvas",
+    "每日的tryCatch（日程记）/25年10-12/2025年12月22日 19点.md",
     "011 留学/可选的（春季）留学学校.md",
-    "每日的tryCatch（日程记）/25年10-12/2025年11月27日 13点.md",
-    "每日的tryCatch（日程记）/00 梦的补充/2024年11月25日 诡恐的梦.md",
+    "013 正在偶尔画画画/2025-12-23 山石溪流枯树花.md",
+    "012 RUST 软件相关/014 恢复误卸载的VisualStudio buildtool.md",
+    "013 正在偶尔画画画/2025-12-22 Rebelle软件 --trace跟踪图层颜色.md",
+    "001 杂项/适龄“高质量男性”测算.md",
+    "013 正在偶尔画画画/plus/2025-12-23.png",
+    "013 正在偶尔画画画/plus/2025-12-22.png",
+    "绘画/plus/RebelleArtwork.png",
+    "绘画/plus/RebelleArtwork 1.png",
+    "013 正在偶尔画画画/plus",
+    "001 杂项/对于和他人的莫名争执.md",
+    "001 杂项/plus/RebelleArtwork.png",
+    "001 杂项/对镜片的误区.md",
+    "每日的tryCatch（日程记）/25年1-3/2025年3月18日 周二.md",
+    "001 杂项/镜框设计的参数.md",
+    "每日的tryCatch（日程记）/25年1-3/2025年1月17日.md",
+    "每日的tryCatch（日程记）/00 梦的补充/2025年2月20日 在学校.md",
+    "每日的tryCatch（日程记）/25年1-3/2025年3月3日.md",
+    "每日的tryCatch（日程记）/25年1-3/2025年3月23日 周日 前夜.md",
+    "每日的tryCatch（日程记）/25年4-6/2025年4月4日 周五 清明节 2点.md",
+    "每日的tryCatch（日程记）/25年4-6/2025年4月12日 周六 8点.md",
+    "每日的tryCatch（日程记）/25年4-6/2025年4月17日 周三 1点.md",
+    "每日的tryCatch（日程记）/25年4-6/2025年4月24日 周四 0点.md",
+    "每日的tryCatch（日程记）/25年4-6/2025年4月27日 周日 6点 小雨.md",
+    "每日的tryCatch（日程记）/25年4-6/2025年5月5日 周一 0点.md",
+    "每日的tryCatch（日程记）/25年4-6/2025年5月10日 周六 3点.md",
+    "001 杂项/plus/Pasted image 20251222211012.png",
     "每日的tryCatch（日程记）/plus/P20250427-181009，顶部黄圈和靠近桌面的压合.jpg",
-    "每日的tryCatch（日程记）/plus/P20250308-011921.jpg",
-    "每日的tryCatch（日程记）/plus/P20250301-234240.jpg",
-    "每日的tryCatch（日程记）/plus/P20250227-141131.jpg",
-    "每日的tryCatch（日程记）/plus/P50215-144313.jpg",
+    "001 杂项/plus/屏幕截图_20230825_035103.png",
+    "001 杂项/plus/屏幕截图_20230407_180800.png",
+    "001 杂项/plus/屏幕截图 2023-12-10 155644.png",
     "每日的tryCatch（日程记）/plus/Recording 20251210001834.m4a",
-    "每日的tryCatch（日程记）/25年10-12/2025年10月1日 周三.md",
-    "每日的tryCatch（日程记）/25年7-9/2025年7月1日 周二 0点.md",
     "每日的tryCatch（日程记）/25年10-12",
-    "每日的tryCatch（日程记）/25年4-6/2025年4月1日 周二 午后.md",
     "每日的tryCatch（日程记）/25年7-9",
-    "每日的tryCatch（日程记）/25年1-3/2025年1月5日 开始日程tryCatch.md",
     "每日的tryCatch（日程记）/25年4-6",
     "每日的tryCatch（日程记）/25年1-3",
     "每日",
-    "000 归档/01 记录网络的尝试/Reddit/LocalLLaMA/25年4月1周 随便看看 发现openDeepSearch.md",
-    "每日的tryCatch（日程记）/25年4-6/2025年4月2日 周三 夜中.md",
-    "每日的tryCatch（日程记）/25年4-6/2025年6月29日 周日 0点.md",
-    "001 杂项/SOLIDWORKS赞助 和 邮箱被盗.md",
-    "000 归档/bio-inspired robotics/HW1.md",
-    "011 留学/归档/创建了临时的邮箱账户.md",
-    "每日的tryCatch（日程记）/25年7-9/2025年7月28日 周一 19点.md",
-    "001 杂项/rebelle 7 绘画软件 破解.md",
-    "每日的tryCatch（日程记）/25年7-9/2025年7月5日 周六 0点.md",
     "plus/Recording 20251210014319.m4a",
     "plus",
     "001 杂项/plus/Recording 20241225202154.m4a",
-    "001 杂项/plus/Recording 20241220122300.m4a",
-    "000 归档/01 记录网络的尝试/互联网的某处/plus/僵尸毁灭工程-mod狗翻栅栏.gif",
-    "000 归档/01 记录网络的尝试/互联网的某处/plus/Pasted image 20250325191820.png",
-    "000 归档/01 记录网络的尝试/互联网的某处/plus/Pasted image 20250301001503.png",
-    "000 归档/01 记录网络的尝试/互联网的某处/plus/Pasted image 20250220002724.png",
-    "000 归档/01 记录网络的尝试/互联网的某处/plus/Pasted image 20250123195336.png",
     "//Untitled.canvas",
     "Untitled.canvas",
     "011 留学/归档/文书、推荐信.canvas",
     "011 留学/归档/选校.canvas",
     "MAE151 机械设计/Untitled.canvas",
     "未命名 1.canvas",
-    "未命名.canvas",
     "//Untitled 1.canvas",
     "Untitled 1.canvas",
     "‘.canvas"
