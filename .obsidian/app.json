@@ -19,7 +19,7 @@
   "readableLineLength": false,
   "promptDelete": false,
   "livePreview": true,
-  "showRibbon": true,
+  "showRibbon": false,
   "defaultViewMode": "source",
   "focusNewTab": true,
   "strictLineBreaks": false,

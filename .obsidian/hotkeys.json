@@ -30,5 +30,53 @@
       ],
       "key": "J"
     }
-  ]
+  ],
+  "omnisearch:show-modal": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "F"
+    }
+  ],
+  "editor:open-search": [],
+  "app:go-forward": [],
+  "markdown:toggle-preview": [],
+  "app:go-back": [],
+  "workspace:close-window": [],
+  "easy-typing-obsidian:easy-typing-format-article": [],
+  "easy-typing-obsidian:easy-typing-format-selection": [],
+  "easy-typing-obsidian:easy-typing-insert-codeblock": [],
+  "easy-typing-obsidian:easy-typing-toggle-comment": [],
+  "easy-typing-obsidian:easy-typing-format-switch": [],
+  "easy-typing-obsidian:easy-typing-delete-blank-line": [],
+  "easy-typing-obsidian:easy-typing-goto-new-line-after-cur-line": [],
+  "easy-typing-obsidian:easy-typing-paste-without-format": [],
+  "editing-toolbar:workplace-fullscreen-focus": [],
+  "editor:swap-line-up": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "ArrowUp"
+    }
+  ],
+  "editor:swap-line-down": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "ArrowDown"
+    }
+  ],
+  "obsidian-tasks-plugin:edit-task": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "L"
+    }
+  ],
+  "editor:toggle-checklist-status": [],
+  "editor:toggle-italics": []
 }

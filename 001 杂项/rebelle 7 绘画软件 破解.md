@@ -77,3 +77,9 @@ IDA通过字符串找到‘选择trial版本’的绘制界面，依照AI思路�
 发现‘选择trial版本’界面的创建（2FDF670）末尾使用QMetaObject::connectSlotsByName，自动连接槽。
 为了学会找槽函数，参考教程https://www.cnblogs.com/czlnb/p/16937572.html跟练。
 启发我用IDA::search::text::(全部匹配项)果然搜索到很多。然而Rebelle并非CrackMe，太大太多了。
+
+# Rebelle 8 破解
+通过x64dbg截获QAbstractButton::mouseReleaseEvent(QMouseEvent*)而不是clicked之类‘创建和绑定’指令，能断点在点击按钮。通过QDialog::down也可以截获‘点击Rebelle 8 Pro试用按钮后dialog关闭’。
+此时的堆栈中，第一次出现rebelle8是 `注释=rebelle 8.0000000001CFF32B` 上下文或是关闭对话框的清理代码；第二次出现 `rebelle 8.0000000000D673CD`；第三次出现 `rebelle 8.0000000000D67371` ；第四次出现是rebelle内部的多层调用，我认为不会是破解的关键。
+	注意到第二和第三次非常近。
+但是AI认为第四次出现是破解关键<---根据堆栈中第三次在处理notify_helper判断。

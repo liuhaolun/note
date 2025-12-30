@@ -1,5 +1,5 @@
 10点，发送了reminder到邮箱。
-- [ ] 尽快通过微信说明如下
+- [x] 尽快通过微信说明如下
 	1. 发送了reminder
 	2. UCL项目
 		MSc Future Manufacturing and Nanoscale Engineering

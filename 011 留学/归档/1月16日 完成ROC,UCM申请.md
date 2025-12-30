@@ -17,8 +17,8 @@ Career Plan
 确认内容：
 https://apply.grad.rochester.edu/apply/status?submitted=1
 1. [x] payment due
-2. [ ] application checklist - test score
-3. [ ] Recommendation of 3
+2. [x] application checklist - test score
+3. [x] Recommendation of 3
 
 ### UCM
 [移动邮箱](https://applygrad.ucmerced.edu/account/migrate)
@@ -43,7 +43,7 @@ https://applygrad.ucmerced.edu/apply/status
 	发送邮件
 	这是必要的，因为我缺少学校推荐人（共10-3=7），我只能在4所上获得他的推荐信（包括一定上传了的罗切斯特）
 3. 幸好，罗切斯特大学允许我更改推荐人使用，那么：我可以多添加一名推荐人，并向不需要的推荐人说明。https://apply.grad.rochester.edu/apply/ref?r=%2fapply%2fstatus
-	- [ ] 向不需要的推荐人说明（我必须要做的）
-	- [ ] 向Iida教授询问（一定要明确表示：我之前没有填入因为截止日期问题，希望包括UCM）[[推荐信：科研机构]]之前就想要将错就错，本来不正确。
-- [ ] 然后，填写推荐信信息。
-- [ ] 向需要的推荐人也发邮件、发微信说明。
+	- [x] 向不需要的推荐人说明（我必须要做的）
+	- [x] 向Iida教授询问（一定要明确表示：我之前没有填入因为截止日期问题，希望包括UCM）[[推荐信：科研机构]]之前就想要将错就错，本来不正确。
+- [x] 然后，填写推荐信信息。
+- [x] 向需要的推荐人也发邮件、发微信说明。

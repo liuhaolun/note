@@ -1,4 +1,4 @@
-- [ ] 语言研究本篇：Bio-inspired soft robotics: Material selection, actuation, and design
+- [-] 语言研究本篇：Bio-inspired soft robotics: Material selection, actuation, and design
 
 格式参考：template/IEEEtran_HOWTO
 
@@ -75,15 +75,15 @@ pressure distribution
 - [x] 观察下半部分
 - [x] 说明数据
 #### conclusion and future work
-- [ ] 我们进行了仿真，揭示了简单设计足以胜任苹果抓取任务
-- [ ] 这种仿真提供了未来topological优化的基础
-	- [ ] 优化目的是降低应力应变水平
-	- [ ] 我们还可以探究soft structure收到疲劳的影响
-	- [ ] 考虑改善运动传递
-- [ ] 除了一种苹果，我们还可以考虑多种苹果形状
-- [ ] 大量的compliant structure设计也不适合现实制作，虚拟仿真更好
-- [ ] 此外，这种仿真还应该和机械臂结合起来，用来控制的力
-- [ ] 机械臂的end-effector还应该包括剪刀，可以更进一步提高效率
+- [-] 我们进行了仿真，揭示了简单设计足以胜任苹果抓取任务
+- [-] 这种仿真提供了未来topological优化的基础
+	- [-] 优化目的是降低应力应变水平
+	- [-] 我们还可以探究soft structure收到疲劳的影响
+	- [-] 考虑改善运动传递
+- [-] 除了一种苹果，我们还可以考虑多种苹果形状
+- [-] 大量的compliant structure设计也不适合现实制作，虚拟仿真更好
+- [-] 此外，这种仿真还应该和机械臂结合起来，用来控制的力
+- [-] 机械臂的end-effector还应该包括剪刀，可以更进一步提高效率
 
 [![bio-inspired robotics/程序化苹果 几何节点.md]]
 

@@ -4,22 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "b4a62433ad282d4b",
+        "id": "3213158b5495c7f9",
         "type": "tabs",
         "children": [
           {
-            "id": "c35b783f03bdda63",
+            "id": "102e6dc1ebece38a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "每日的tryCatch（日程记）/25年10-12/2025年12月23日 13点.md",
+                "file": "每日的tryCatch（日程记）/25年10-12/2025年12月30日 14点.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025年12月23日 13点"
+              "title": "2025年12月30日 14点"
             }
           }
         ]
@@ -32,8 +32,9 @@
     "type": "split",
     "children": [
       {
-        "id": "65a2fd0590ed0d62",
+        "id": "8dbc82571eb32171",
         "type": "tabs",
+        "dimension": 62.347729789590254,
         "children": [
           {
             "id": "65227987a7cb2b21",
@@ -48,12 +49,12 @@
             }
           },
           {
-            "id": "d8e3d34eeacd5aca",
+            "id": "1c30cf99f37e620e",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "obsidian 配置",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,10 +66,27 @@
             }
           }
         ]
+      },
+      {
+        "id": "c5fbbda7d4f3c19b",
+        "type": "tabs",
+        "dimension": 37.652270210409746,
+        "children": [
+          {
+            "id": "ab57a8a413e20afe",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "clock",
+              "title": "Recent Files"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 328.50925064086914
+    "width": 413.5
   },
   "right": {
     "id": "bc71fd661f11f13e",
@@ -79,25 +97,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d49ff0fcfc2aa6c6",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "每日的tryCatch（日程记）/25年10-12/2025年12月23日 13点.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
-              },
-              "icon": "links-coming-in",
-              "title": "2025年12月23日 13点 的反向链接列表"
-            }
-          },
-          {
             "id": "6bf6eaa1172aca98",
             "type": "leaf",
             "state": {
@@ -106,66 +105,109 @@
               "icon": "lucide-bookmark",
               "title": "书签"
             }
+          },
+          {
+            "id": "6122819b63c818d2",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {},
+              "icon": "checkmark",
+              "title": "Todo List"
+            }
+          },
+          {
+            "id": "98c927c221b80175",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "61d6c69dd0bca903",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "每日的tryCatch（日程记）/25年10-12/2025年12月30日 14点.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "2025年12月30日 14点 的反向链接列表"
+            }
           }
         ],
         "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 299.5
+    "width": 435.5
   },
   "left-ribbon": {
-    "hiddenItems": {}
+    "hiddenItems": {
+      "command-palette:打开命令面板": false
+    }
   },
-  "active": "c35b783f03bdda63",
+  "active": "6122819b63c818d2",
   "lastOpenFiles": [
-    "001 杂项/2025-12-23 配置obsidian主题.md",
-    "每日的tryCatch（日程记）/25年10-12/2025年12月23日 13点.md",
-    "每日的tryCatch（日程记）/25年10-12/2025年12月9日 20点.md",
-    "001 杂项/想法/问：人如何能不被欲望控制.md",
-    "001 杂项/从Joplin搬运 2023上年.md",
-    "未命名.canvas",
-    "每日的tryCatch（日程记）/25年10-12/2025年12月22日 19点.md",
+    "001 杂项/Obsidian 配置.md",
+    "每日的tryCatch（日程记）/25年10-12/2025年12月30日 14点.md",
+    "001 杂项/2025-12-23 配置obsidian主题&插件.md",
+    "001 杂项/plus/obsidian配色 --去除画框.png",
+    "001 杂项/plus/obsidian配色.png",
+    "每日的tryCatch（日程记）/25年10-12/2025年12月29日 14点.md",
+    "001 杂项/23年我对软件的审美.md",
+    "011 留学/GRE考试 准备.md",
+    "011 留学/归档/准备内容的比重.md",
+    "014 项目 -盲文显示阵列/电路设计 PCB的基础知识.md",
+    "011 留学/未命名.md",
+    "011 留学/归档/-归档：托福.md",
+    "011 留学/26年秋季入学 备选学校.md",
+    "001 杂项/药物.md",
+    "001 杂项/想法/药物.md",
+    "014 项目 -盲文显示阵列/电路设计 备忘录.md",
+    "014 项目 -盲文显示阵列/布局.md",
+    "001 杂项/想法/记录自浏览器--仪表盘上.md",
+    "001 杂项/记忆和效率的拼凑.md",
+    "每日的tryCatch（日程记）/25年1-3/2025年2月24日.md",
+    "每日的tryCatch（日程记）/25年1-3/2025年3月13日.md",
+    "每日的tryCatch（日程记）/25年10-12/2025年12月28日 12点.md",
+    "011 留学/11 我的履历、闪光点，串联起实习、项目、成果 （复制）.md",
+    "011 留学/11 我的履历、闪光点，串联起实习、项目、成果.md",
+    "每日的tryCatch（日程记）/25年10-12/2025年12月27日 15点.md",
     "011 留学/可选的（春季）留学学校.md",
-    "013 正在偶尔画画画/2025-12-23 山石溪流枯树花.md",
-    "012 RUST 软件相关/014 恢复误卸载的VisualStudio buildtool.md",
-    "013 正在偶尔画画画/2025-12-22 Rebelle软件 --trace跟踪图层颜色.md",
-    "001 杂项/适龄“高质量男性”测算.md",
+    "每日的tryCatch（日程记）/25年4-6/2025年5月3日 周六 15点.md",
+    "011 留学/plus/26年秋季入学 备选学校 美国.pdf",
+    "013 正在偶尔画画画/plus/头颅.png",
+    "013 正在偶尔画画画/plus/2025-12-24.jpg",
+    "011 留学/plus/Transcript (CHSI verified).pdf",
+    "Excalidraw",
+    "每日的tryCatch（日程记）/25年10-12/plus/2025年12月23日 13点.png",
+    "每日的tryCatch（日程记）/25年10-12/plus",
+    "每日的tryCatch（日程记）/25年10-12/plus/ECAD-Banner2-TGOF3BFX.png",
+    "未命名.canvas",
     "013 正在偶尔画画画/plus/2025-12-23.png",
     "013 正在偶尔画画画/plus/2025-12-22.png",
     "绘画/plus/RebelleArtwork.png",
     "绘画/plus/RebelleArtwork 1.png",
     "013 正在偶尔画画画/plus",
-    "001 杂项/对于和他人的莫名争执.md",
-    "001 杂项/plus/RebelleArtwork.png",
-    "001 杂项/对镜片的误区.md",
-    "每日的tryCatch（日程记）/25年1-3/2025年3月18日 周二.md",
-    "001 杂项/镜框设计的参数.md",
-    "每日的tryCatch（日程记）/25年1-3/2025年1月17日.md",
-    "每日的tryCatch（日程记）/00 梦的补充/2025年2月20日 在学校.md",
-    "每日的tryCatch（日程记）/25年1-3/2025年3月3日.md",
-    "每日的tryCatch（日程记）/25年1-3/2025年3月23日 周日 前夜.md",
-    "每日的tryCatch（日程记）/25年4-6/2025年4月4日 周五 清明节 2点.md",
-    "每日的tryCatch（日程记）/25年4-6/2025年4月12日 周六 8点.md",
-    "每日的tryCatch（日程记）/25年4-6/2025年4月17日 周三 1点.md",
-    "每日的tryCatch（日程记）/25年4-6/2025年4月24日 周四 0点.md",
-    "每日的tryCatch（日程记）/25年4-6/2025年4月27日 周日 6点 小雨.md",
-    "每日的tryCatch（日程记）/25年4-6/2025年5月5日 周一 0点.md",
-    "每日的tryCatch（日程记）/25年4-6/2025年5月10日 周六 3点.md",
-    "001 杂项/plus/Pasted image 20251222211012.png",
-    "每日的tryCatch（日程记）/plus/P20250427-181009，顶部黄圈和靠近桌面的压合.jpg",
-    "001 杂项/plus/屏幕截图_20230825_035103.png",
-    "001 杂项/plus/屏幕截图_20230407_180800.png",
-    "001 杂项/plus/屏幕截图 2023-12-10 155644.png",
     "每日的tryCatch（日程记）/plus/Recording 20251210001834.m4a",
     "每日的tryCatch（日程记）/25年10-12",
     "每日的tryCatch（日程记）/25年7-9",
     "每日的tryCatch（日程记）/25年4-6",
     "每日的tryCatch（日程记）/25年1-3",
-    "每日",
-    "plus/Recording 20251210014319.m4a",
-    "plus",
-    "001 杂项/plus/Recording 20241225202154.m4a",
     "//Untitled.canvas",
     "Untitled.canvas",
     "011 留学/归档/文书、推荐信.canvas",
