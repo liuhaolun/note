@@ -4762,6 +4762,7 @@ body:not(.is-mobile) .workspace-split.mod-left-split .workspace-leaf {
 }
 
 
+
 /* ====== status bar====== */
 
 /* 1. 彻底隐藏状态栏 */
@@ -4820,7 +4821,7 @@ body:not(.is-mobile):not(.show-ribbon) .workspace::before {
 
 .mod-windows,
 .mod-linux {
-    --frame-right-space: 132px;
+    --frame-right-space: 124px;
     /* 顶栏右侧窗口按钮预留长度，/3=44px，对应可设置最大宽度 */
 }
 
@@ -8462,6 +8463,7 @@ body {
 }
 
 /* 隐藏拖拽条 */
+/* ======== 禁止调整左右分栏宽度 ======== */
 .workspace-split.mod-left-split > .workspace-leaf-resize-handle,
 .workspace-split.mod-right-split > .workspace-leaf-resize-handle {
     display: none !important;

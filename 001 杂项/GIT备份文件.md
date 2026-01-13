@@ -6,7 +6,7 @@ emacs还可用于简单文本处理，代替vscode部分功能
 emacs不适合中文，也并非现代GUI。
 
 [GUIs 列表](https://git-scm.com/downloads/guis)
-作为轻度用户，使用github desktop是合适的。
+作为轻度用户，使用**github desktop**是合适的。
 publish repository > "Name" = github/liuhaolun/"Name"
 add new repository > "Name":"." 可以在已有的文件夹建立
 ### 列表

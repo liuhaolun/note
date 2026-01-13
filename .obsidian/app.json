@@ -12,7 +12,7 @@
     "downscalePercent": 100
   },
   "showInlineTitle": true,
-  "showLineNumber": true,
+  "showLineNumber": false,
   "rightToLeft": false,
   "foldHeading": true,
   "foldIndent": false,

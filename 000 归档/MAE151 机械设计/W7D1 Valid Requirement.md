@@ -5,7 +5,7 @@
 **Develop the TEST plan**
 def::Entry condition --- 希望处于的测试环境，至少确保{条件对齐|可低成本多重复}
 def::Exit condition --- 
-- [ ] 本课程要求：设计报告、专利申请、poster<---完整设计流程
+- [x] 本课程要求：设计报告、专利申请、poster<---完整设计流程
 ~~其中的一步 -- repeat for the nonbehavioral tests~~ 物理特性检测
 **Behavioral test procedure**
 	谁-状态-动作-预期|实际
